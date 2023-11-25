@@ -7,7 +7,8 @@
     "batch_exam": "FOUNDATION",
     "batch_name": "Neev 2023",
     "batch_slug": "neev-2023-958803",
-    "batch_start_date": "2022-04-10T18:30:00.000Z"
+    "batch_start_date": "2022-04-10T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650ea2d2201c85f27e42161d",
@@ -17,7 +18,8 @@
     "batch_exam": "AE/JE",
     "batch_name": "Ashoka Batch C - AE/JE Civil",
     "batch_slug": "ashoka-batch-c---ae-je-civil-852627",
-    "batch_start_date": "2023-04-16T18:30:00.000Z"
+    "batch_start_date": "2023-04-16T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "65114389201c85f27e958747",
@@ -27,7 +29,8 @@
     "batch_exam": "AE/JE",
     "batch_name": "Ashoka - AE/JE Electrical",
     "batch_slug": "ashoka---ae-je-electrical-723330",
-    "batch_start_date": "2023-01-26T18:30:00.000Z"
+    "batch_start_date": "2023-01-26T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650db68b201c85f27e258d7f",
@@ -37,7 +40,8 @@
     "batch_exam": "IIT/JEE",
     "batch_name": "JEE ULTIMATE CRASH COURSE",
     "batch_slug": "jee-ultimate-crash-course-184651",
-    "batch_start_date": "2023-01-04T18:30:00.000Z"
+    "batch_start_date": "2023-01-04T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650450b2201c85f27e18df1e",
@@ -47,7 +51,8 @@
     "batch_exam": "FOUNDATION",
     "batch_name": "Neev 2.0 2023",
     "batch_slug": "neev-2-0-2023-828149",
-    "batch_start_date": "2022-06-30T18:30:00.000Z"
+    "batch_start_date": "2022-06-30T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650f0aa1201c85f27e4fc3fb",
@@ -57,7 +62,8 @@
     "batch_exam": "FOUNDATION",
     "batch_name": "Neev 2024",
     "batch_slug": "neev-2024-155226",
-    "batch_start_date": "2023-04-09T18:30:00.000Z"
+    "batch_start_date": "2023-04-09T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "65103fb2201c85f27e761c57",
@@ -67,7 +73,8 @@
     "batch_exam": "FOUNDATION",
     "batch_name": "Neev 2.0 2024",
     "batch_slug": "neev-2-0-2024-277906",
-    "batch_start_date": "2023-06-11T18:30:00.000Z"
+    "batch_start_date": "2023-06-11T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "65103fb0201c85f27e761c1d",
@@ -77,7 +84,8 @@
     "batch_exam": "FOUNDATION",
     "batch_name": "Neev 3.0 2024",
     "batch_slug": "neev-3-0-2024-130305",
-    "batch_start_date": "2023-08-06T18:30:00.000Z"
+    "batch_start_date": "2023-08-06T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "65103fb3201c85f27e761c7e",
@@ -87,7 +95,8 @@
     "batch_exam": "FOUNDATION",
     "batch_name": "Neev Fastrack 2024",
     "batch_slug": "neev-fastrack-2024-526378",
-    "batch_start_date": "2023-09-19T18:30:00.000Z"
+    "batch_start_date": "2023-09-19T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650ae162201c85f27eca06ac",
@@ -97,7 +106,8 @@
     "batch_exam": "BOARD EXAM",
     "batch_name": "Udaan 2023 - 10th CBSE Board",
     "batch_slug": "udaan-2023---10th-cbse-board-659070",
-    "batch_start_date": "2022-04-10T18:30:00.000Z"
+    "batch_start_date": "2022-04-10T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "6509336f201c85f27e9a830a",
@@ -107,7 +117,8 @@
     "batch_exam": "BOARD EXAM",
     "batch_name": "Udaan 2024",
     "batch_slug": "udaan-2024-062418",
-    "batch_start_date": "2023-04-09T18:30:00.000Z"
+    "batch_start_date": "2023-04-09T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "65093414201c85f27e9a9d22",
@@ -117,7 +128,8 @@
     "batch_exam": "BOARD EXAM",
     "batch_name": "Udaan 2.0 2024",
     "batch_slug": "udaan-2-0-2024-869043",
-    "batch_start_date": "2023-06-11T18:30:00.000Z"
+    "batch_start_date": "2023-06-11T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "6509344e201c85f27e9aa900",
@@ -127,7 +139,8 @@
     "batch_exam": "BOARD EXAM",
     "batch_name": "Udaan 3.0 2024",
     "batch_slug": "udaan-3-0-2024-204848",
-    "batch_start_date": "2023-08-06T18:30:00.000Z"
+    "batch_start_date": "2023-08-06T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "65093483201c85f27e9ab203",
@@ -137,7 +150,8 @@
     "batch_exam": "BOARD EXAM",
     "batch_name": "Udaan Fastrack 2024",
     "batch_slug": "udaan-fastrack-2024-949465",
-    "batch_start_date": "2023-09-19T18:30:00.000Z"
+    "batch_start_date": "2023-09-19T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "65096157201c85f27e9f923f",
@@ -147,7 +161,8 @@
     "batch_exam": "IIT/JEE",
     "batch_name": "Arjuna JEE 2023",
     "batch_slug": "arjuna-jee-2023-426578",
-    "batch_start_date": "2022-06-07T18:30:00.000Z"
+    "batch_start_date": "2022-06-07T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "65096294201c85f27e9fbcdb",
@@ -157,7 +172,8 @@
     "batch_exam": "IIT/JEE",
     "batch_name": "Arjuna JEE 2.0 2023",
     "batch_slug": "arjuna-jee-2-0-2023-234727",
-    "batch_start_date": "2022-08-07T18:30:00.000Z"
+    "batch_start_date": "2022-08-07T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650963a3201c85f27e9fe22f",
@@ -167,7 +183,8 @@
     "batch_exam": "IIT/JEE",
     "batch_name": "Arjuna JEE 3.0 2023",
     "batch_slug": "arjuna-jee-3-0-2023-122808",
-    "batch_start_date": "2022-09-25T18:30:00.000Z"
+    "batch_start_date": "2022-09-25T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650dd0fe201c85f27e2943c4",
@@ -177,7 +194,8 @@
     "batch_exam": "IIT/JEE",
     "batch_name": "Arjuna JEE Fastrack Course",
     "batch_slug": "arjuna-jee-fastrack-course-352103",
-    "batch_start_date": "2022-11-06T18:30:00.000Z"
+    "batch_start_date": "2022-11-06T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "6509af4f201c85f27ea84798",
@@ -187,7 +205,8 @@
     "batch_exam": "IIT/JEE",
     "batch_name": "Arjuna JEE 2024",
     "batch_slug": "arjuna-jee-2024-626729",
-    "batch_start_date": "2023-04-09T18:30:00.000Z"
+    "batch_start_date": "2023-04-09T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "6509afd4201c85f27ea85d55",
@@ -197,7 +216,8 @@
     "batch_exam": "IIT/JEE",
     "batch_name": "Arjuna JEE 2.0 2024",
     "batch_slug": "arjuna-jee-2-0-2024-429328",
-    "batch_start_date": "2023-05-28T18:30:00.000Z"
+    "batch_start_date": "2023-05-28T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "6509b046201c85f27ea872fd",
@@ -207,7 +227,8 @@
     "batch_exam": "IIT/JEE",
     "batch_name": "Arjuna JEE 3.0 2024",
     "batch_slug": "arjuna-jee-3-0-2024-443966",
-    "batch_start_date": "2023-07-16T18:30:00.000Z"
+    "batch_start_date": "2023-07-16T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650aef08201c85f27ecb9bc2",
@@ -217,7 +238,8 @@
     "batch_exam": "IIT/JEE",
     "batch_name": "Arjuna JEE Fastrack 2024",
     "batch_slug": "arjuna-jee-fastrack-2024-522244",
-    "batch_start_date": "2023-09-19T18:30:00.000Z"
+    "batch_start_date": "2023-09-19T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "6512a84a201c85f27ec0bd01",
@@ -227,7 +249,8 @@
     "batch_exam": "IIT/JEE",
     "batch_name": "Arjuna JEE AIR recorded",
     "batch_slug": "arjuna-jee-air-recorded-496949",
-    "batch_start_date": "2023-09-19T18:30:00.000Z"
+    "batch_start_date": "2023-09-19T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "651a6ae0201c85f27ebfa463",
@@ -237,7 +260,8 @@
     "batch_exam": "IIT/JEE",
     "batch_name": "Arjuna JEE AIR Recorded 2.0",
     "batch_slug": "arjuna-jee-air-recorded-2-0-727757",
-    "batch_start_date": "2023-09-28T18:30:00.000Z"
+    "batch_start_date": "2023-09-28T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "65071b15201c85f27e622730",
@@ -247,7 +271,8 @@
     "batch_exam": "NEET",
     "batch_name": "Arjuna NEET 2023",
     "batch_slug": "arjuna-neet-2023-102667",
-    "batch_start_date": "2022-06-07T18:30:00.000Z"
+    "batch_start_date": "2022-06-07T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650c69ff201c85f27efbc882",
@@ -257,7 +282,8 @@
     "batch_exam": "NEET",
     "batch_name": "Arjuna NEET 2.0 2023",
     "batch_slug": "arjuna-neet-2-0-2023-158447",
-    "batch_start_date": "2022-08-07T18:30:00.000Z"
+    "batch_start_date": "2022-08-07T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650be337201c85f27ee81103",
@@ -267,7 +293,8 @@
     "batch_exam": "NEET",
     "batch_name": "Arjuna NEET 3.0 2023",
     "batch_slug": "arjuna-neet-3-0-2023-557895",
-    "batch_start_date": "2022-09-25T18:30:00.000Z"
+    "batch_start_date": "2022-09-25T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650c41a9201c85f27ef58abf",
@@ -277,7 +304,8 @@
     "batch_exam": "NEET",
     "batch_name": "Arjuna NEET Fastrack Course",
     "batch_slug": "arjuna-neet-fastrack-course-387745",
-    "batch_start_date": "2022-11-06T18:30:00.000Z"
+    "batch_start_date": "2022-11-06T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650bd4d1201c85f27ee554af",
@@ -287,7 +315,8 @@
     "batch_exam": "NEET",
     "batch_name": "Arjuna NEET 2024",
     "batch_slug": "arjuna-neet-2024-683082",
-    "batch_start_date": "2023-04-09T18:30:00.000Z"
+    "batch_start_date": "2023-04-09T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650bd616201c85f27ee597f5",
@@ -297,7 +326,8 @@
     "batch_exam": "NEET",
     "batch_name": "Arjuna NEET 2.0 2024",
     "batch_slug": "arjuna-neet-2-0-2024-306246",
-    "batch_start_date": "2023-05-28T18:30:00.000Z"
+    "batch_start_date": "2023-05-28T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650bd687201c85f27ee5b182",
@@ -307,7 +337,8 @@
     "batch_exam": "NEET",
     "batch_name": "Arjuna NEET 3.0 2024",
     "batch_slug": "arjuna-neet-3-0-2024-448485",
-    "batch_start_date": "2023-07-16T18:30:00.000Z"
+    "batch_start_date": "2023-07-16T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650bd6d1201c85f27ee5c355",
@@ -317,7 +348,8 @@
     "batch_exam": "NEET",
     "batch_name": "Arjuna NEET Fastrack 2024",
     "batch_slug": "arjuna-neet-fastrack-2024-285700",
-    "batch_start_date": "2023-09-19T18:30:00.000Z"
+    "batch_start_date": "2023-09-19T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650c6df2201c85f27efc59ca",
@@ -327,7 +359,8 @@
     "batch_exam": "IIT/JEE",
     "batch_name": "Class 12th - Lakshya JEE",
     "batch_slug": "class-12th--lakshya-jee-415093",
-    "batch_start_date": "2021-03-23T18:30:00.000Z"
+    "batch_start_date": "2021-03-23T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "6502b33d201c85f27eef3513",
@@ -337,7 +370,8 @@
     "batch_exam": "IIT/JEE",
     "batch_name": "Lakshya JEE 2023",
     "batch_slug": "lakshya-jee-2023-553892",
-    "batch_start_date": "2022-04-06T18:30:00.000Z"
+    "batch_start_date": "2022-04-06T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "6502b163201c85f27eeef849",
@@ -347,7 +381,8 @@
     "batch_exam": "IIT/JEE",
     "batch_name": "Lakshya JEE 2.0 2023",
     "batch_slug": "lakshya-jee-2-0-2023-014465",
-    "batch_start_date": "2022-06-09T18:30:00.000Z"
+    "batch_start_date": "2022-06-09T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "65124984201c85f27eb5776b",
@@ -357,7 +392,8 @@
     "batch_exam": "IIT/JEE",
     "batch_name": "Lakshya JEE Fastrack Course",
     "batch_slug": "lakshya-jee-fastrack-course-656326",
-    "batch_start_date": "2022-11-06T18:30:00.000Z"
+    "batch_start_date": "2022-11-06T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650c6e36201c85f27efc6739",
@@ -367,7 +403,8 @@
     "batch_exam": "IIT/JEE",
     "batch_name": "Lakshya JEE D2 2024",
     "batch_slug": "lakshya-jee-d2-2024-234440",
-    "batch_start_date": "2023-03-26T18:30:00.000Z"
+    "batch_start_date": "2023-03-26T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "6504a8af201c85f27e21b9e5",
@@ -377,7 +414,8 @@
     "batch_exam": "IIT/JEE",
     "batch_name": "Lakshya JEE 2024",
     "batch_slug": "lakshya-jee-2024-911516",
-    "batch_start_date": "2023-04-02T18:30:00.000Z"
+    "batch_start_date": "2023-04-02T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "6505d47e201c85f27e401b84",
@@ -387,7 +425,8 @@
     "batch_exam": "IIT/JEE",
     "batch_name": "Lakshya JEE 2.0 2024",
     "batch_slug": "lakshya-jee-2-0-2024-742427",
-    "batch_start_date": "2023-06-11T18:30:00.000Z"
+    "batch_start_date": "2023-06-11T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "6505665e201c85f27e34e0a1",
@@ -397,7 +436,8 @@
     "batch_exam": "IIT/JEE",
     "batch_name": "Lakshya JEE 3.0 2024",
     "batch_slug": "lakshya-jee-3-0-2024-841158",
-    "batch_start_date": "2023-08-06T18:30:00.000Z"
+    "batch_start_date": "2023-08-06T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "6512f219201c85f27ec9f171",
@@ -407,7 +447,8 @@
     "batch_exam": "IIT/JEE",
     "batch_name": "Lakshya JEE AIR recorded",
     "batch_slug": "lakshya-jee-air-recorded-469038",
-    "batch_start_date": "2023-09-19T18:30:00.000Z"
+    "batch_start_date": "2023-09-19T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "65069b35201c85f27e54a4d3",
@@ -417,7 +458,8 @@
     "batch_exam": "IIT/JEE",
     "batch_name": "Lakshya JEE Fastrack 2024",
     "batch_slug": "lakshya-jee-fastrack-2024-791689",
-    "batch_start_date": "2023-09-19T18:30:00.000Z"
+    "batch_start_date": "2023-09-19T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "6509dbcb201c85f27ead6368",
@@ -427,7 +469,8 @@
     "batch_exam": "NEET",
     "batch_name": "Lakshya NEET 2023",
     "batch_slug": "lakshya-neet-2023-020071",
-    "batch_start_date": "2022-04-07T00:00:00.000Z"
+    "batch_start_date": "2022-04-07T00:00:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650c445b201c85f27ef5eede",
@@ -437,7 +480,8 @@
     "batch_exam": "NEET",
     "batch_name": "Lakshya NEET 2.0 2023",
     "batch_slug": "lakshya-neet-2-0-2023-750345",
-    "batch_start_date": "2022-06-09T18:30:00.000Z"
+    "batch_start_date": "2022-06-09T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "65056bb6201c85f27e356c75",
@@ -447,7 +491,8 @@
     "batch_exam": "NEET",
     "batch_name": "Lakshya NEET 2024",
     "batch_slug": "lakshya-neet-2024-980734",
-    "batch_start_date": "2023-04-02T18:30:00.000Z"
+    "batch_start_date": "2023-04-02T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "65057901201c85f27e36ca24",
@@ -457,7 +502,8 @@
     "batch_exam": "NEET",
     "batch_name": "Lakshya NEET 2.0 2024",
     "batch_slug": "lakshya-neet-2-0-2024-562296",
-    "batch_start_date": "2023-06-18T18:30:00.000Z"
+    "batch_start_date": "2023-06-18T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "65057a05201c85f27e36e690",
@@ -467,7 +513,8 @@
     "batch_exam": "NEET",
     "batch_name": "Lakshya NEET 3.0 2024",
     "batch_slug": "lakshya-neet-3-0-2024-600012",
-    "batch_start_date": "2023-08-06T18:30:00.000Z"
+    "batch_start_date": "2023-08-06T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650c592e201c85f27ef95d8b",
@@ -477,7 +524,8 @@
     "batch_exam": "NEET",
     "batch_name": "Lakshya NEET Fastrack 2024",
     "batch_slug": "lakshya-neet-fastrack-2024-434141",
-    "batch_start_date": "2023-09-17T18:30:00.000Z"
+    "batch_start_date": "2023-09-17T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650be1ac201c85f27ee7cf36",
@@ -487,7 +535,8 @@
     "batch_exam": "IIT/JEE",
     "batch_name": "Prayas 2023",
     "batch_slug": "prayas-2023-617434",
-    "batch_start_date": "2022-06-30T18:30:00.000Z"
+    "batch_start_date": "2022-06-30T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650bd8a4201c85f27ee61d9d",
@@ -497,7 +546,8 @@
     "batch_exam": "IIT/JEE",
     "batch_name": "Prayas 2.0 2023",
     "batch_slug": "prayas-2-0-2023-458229",
-    "batch_start_date": "2022-08-07T18:30:00.000Z"
+    "batch_start_date": "2022-08-07T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650c01a6201c85f27eeccf7b",
@@ -507,7 +557,8 @@
     "batch_exam": "IIT/JEE",
     "batch_name": "Prayas Hindi 2023",
     "batch_slug": "prayas-hindi-2023-556854",
-    "batch_start_date": "2022-09-14T18:30:00.000Z"
+    "batch_start_date": "2022-09-14T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650be11e201c85f27ee7ab0f",
@@ -517,7 +568,8 @@
     "batch_exam": "IIT/JEE",
     "batch_name": "Prayas 3.0 2023",
     "batch_slug": "prayas-3-0-2023-821341",
-    "batch_start_date": "2022-09-14T18:30:00.000Z"
+    "batch_start_date": "2022-09-14T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "6506c159201c85f27e58a2c4",
@@ -527,7 +579,8 @@
     "batch_exam": "IIT/JEE",
     "batch_name": "Prayas JEE 2024",
     "batch_slug": "prayas-jee-2024-430915",
-    "batch_start_date": "2023-04-16T18:30:00.000Z"
+    "batch_start_date": "2023-04-16T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650feada201c85f27e6ad369",
@@ -537,7 +590,8 @@
     "batch_exam": "IIT/JEE",
     "batch_name": "Prayas JEE Hindi 2024",
     "batch_slug": "prayas-jee-hindi-2024-003670",
-    "batch_start_date": "2023-06-06T18:30:00.000Z"
+    "batch_start_date": "2023-06-06T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "6506c25a201c85f27e58c292",
@@ -547,7 +601,8 @@
     "batch_exam": "IIT/JEE",
     "batch_name": "Prayas JEE 2.0 2024",
     "batch_slug": "prayas-jee-2-0-2024-952921",
-    "batch_start_date": "2023-06-06T18:30:00.000Z"
+    "batch_start_date": "2023-06-06T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "6506c2f1201c85f27e58d65c",
@@ -557,7 +612,8 @@
     "batch_exam": "IIT/JEE",
     "batch_name": "Prayas JEE 3.0 2024",
     "batch_slug": "prayas-jee-3-0-2024-377536",
-    "batch_start_date": "2023-07-23T18:30:00.000Z"
+    "batch_start_date": "2023-07-23T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "6512e2d7201c85f27ec7d517",
@@ -567,7 +623,8 @@
     "batch_exam": "IIT/JEE",
     "batch_name": "Prayas JEE AIR recorded",
     "batch_slug": "prayas-jee-air-recorded-342170",
-    "batch_start_date": "2023-09-19T18:30:00.000Z"
+    "batch_start_date": "2023-09-19T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "6506c3e0201c85f27e58f678",
@@ -577,7 +634,8 @@
     "batch_exam": "IIT/JEE",
     "batch_name": "Prayas JEE Fastrack 2024",
     "batch_slug": "prayas-jee-fastrack-2024-318706",
-    "batch_start_date": "2023-09-24T18:30:00.000Z"
+    "batch_start_date": "2023-09-24T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "651bec45201c85f27ef54b5e",
@@ -587,7 +645,8 @@
     "batch_exam": "IIT/JEE",
     "batch_name": "Prayas JEE AIR Recorded 2.0",
     "batch_slug": "prayas-jee-air-recorded-2-0-806086",
-    "batch_start_date": "2023-09-28T18:30:00.000Z"
+    "batch_start_date": "2023-09-28T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650d85b1201c85f27e1f07cf",
@@ -597,7 +656,8 @@
     "batch_exam": "NEET",
     "batch_name": "Dropper NEET - Yakeen for NEET 2021",
     "batch_slug": "dropper-neet--yakeen-for-neet-2021-708271",
-    "batch_start_date": "2020-09-30T18:30:00.000Z"
+    "batch_start_date": "2020-09-30T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650d2342201c85f27e11f9c0",
@@ -607,7 +667,8 @@
     "batch_exam": "NEET",
     "batch_name": "Dropper NEET - Yakeen 2022",
     "batch_slug": "dropper-neet-yakeen-2022-236250",
-    "batch_start_date": "2021-06-19T18:30:00.000Z"
+    "batch_start_date": "2021-06-19T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650becea201c85f27ee9d3a9",
@@ -617,7 +678,8 @@
     "batch_exam": "NEET",
     "batch_name": "Dropper NEET Yakeen Hindi Medium",
     "batch_slug": "dropper-neet-yakeen-hindi-medium-016747",
-    "batch_start_date": "2021-09-30T18:30:00.000Z"
+    "batch_start_date": "2021-09-30T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650d2002201c85f27e117fa8",
@@ -627,7 +689,8 @@
     "batch_exam": "NEET",
     "batch_name": "Dropper NEET Yakeen 2",
     "batch_slug": "dropper-neet-yakeen-2-939395",
-    "batch_start_date": "2021-10-01T18:30:00.000Z"
+    "batch_start_date": "2021-10-01T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650bf4e8201c85f27eeb09ea",
@@ -637,7 +700,8 @@
     "batch_exam": "NEET",
     "batch_name": "Yakeen 2023",
     "batch_slug": "yakeen-2023-884005",
-    "batch_start_date": "2022-06-19T18:30:00.000Z"
+    "batch_start_date": "2022-06-19T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650bf1e3201c85f27eeaa3a2",
@@ -647,7 +711,8 @@
     "batch_exam": "NEET",
     "batch_name": "Yakeen 2.0 2023",
     "batch_slug": "yakeen-2-0-2023-387343",
-    "batch_start_date": "2022-07-27T18:30:00.000Z"
+    "batch_start_date": "2022-07-27T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "6512e6ef201c85f27ec864c2",
@@ -657,7 +722,8 @@
     "batch_exam": "NEET",
     "batch_name": "Yakeen English 2023",
     "batch_slug": "yakeen-english-2023-692284",
-    "batch_start_date": "2022-08-07T18:30:00.000Z"
+    "batch_start_date": "2022-08-07T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650be78b201c85f27ee8c91d",
@@ -667,7 +733,8 @@
     "batch_exam": "NEET",
     "batch_name": "Yakeen Hindi 2023",
     "batch_slug": "yakeen-hindi-2023-544651",
-    "batch_start_date": "2022-08-07T18:30:00.000Z"
+    "batch_start_date": "2022-08-07T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650bea9e201c85f27ee961ca",
@@ -677,7 +744,8 @@
     "batch_exam": "NEET",
     "batch_name": "Yakeen 3.0 2023",
     "batch_slug": "yakeen-3-0-2023-015950",
-    "batch_start_date": "2022-09-18T18:30:00.000Z"
+    "batch_start_date": "2022-09-18T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650e7dbd201c85f27e3d6fac",
@@ -687,7 +755,8 @@
     "batch_exam": "NEET",
     "batch_name": "Yakeen Fastrack Course",
     "batch_slug": "yakeen-fastrack-course-231638",
-    "batch_start_date": "2022-11-06T18:30:00.000Z"
+    "batch_start_date": "2022-11-06T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "6509cc9e201c85f27eabb0a5",
@@ -697,7 +766,8 @@
     "batch_exam": "NEET",
     "batch_name": "Yakeen NEET 2024",
     "batch_slug": "yakeen-neet-2024-759724",
-    "batch_start_date": "2023-04-09T18:30:00.000Z"
+    "batch_start_date": "2023-04-09T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "6509de0b201c85f27eadb0fe",
@@ -707,7 +777,8 @@
     "batch_exam": "NEET",
     "batch_name": "Yakeen NEET 2.0 2024",
     "batch_slug": "yakeen-neet-2-0-2024-601447",
-    "batch_start_date": "2023-05-17T18:30:00.000Z"
+    "batch_start_date": "2023-05-17T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "6509e68e201c85f27eaec253",
@@ -717,7 +788,8 @@
     "batch_exam": "NEET",
     "batch_name": "Yakeen NEET Hindi 2024",
     "batch_slug": "yakeen-neet-hindi-2024-130102",
-    "batch_start_date": "2023-05-28T18:30:00.000Z"
+    "batch_start_date": "2023-05-28T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650fe9b9201c85f27e6aae08",
@@ -727,7 +799,8 @@
     "batch_exam": "NEET",
     "batch_name": "Yakeen NEET English 2024",
     "batch_slug": "yakeen-neet-english-2024-033088",
-    "batch_start_date": "2023-06-18T18:30:00.000Z"
+    "batch_start_date": "2023-06-18T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "6509e0a6201c85f27eae09e2",
@@ -737,7 +810,8 @@
     "batch_exam": "NEET",
     "batch_name": "Yakeen NEET 3.0 2024",
     "batch_slug": "yakeen-neet-3-0-2024-334200",
-    "batch_start_date": "2023-07-02T18:30:00.000Z"
+    "batch_start_date": "2023-07-02T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "6509e857201c85f27eaef951",
@@ -747,7 +821,8 @@
     "batch_exam": "NEET",
     "batch_name": "Yakeen NEET Hindi 2.0 2024",
     "batch_slug": "yakeen-neet-hindi-2-0-2024-545045",
-    "batch_start_date": "2023-08-27T18:30:00.000Z"
+    "batch_start_date": "2023-08-27T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "6509e041201c85f27eadfb7e",
@@ -757,7 +832,8 @@
     "batch_exam": "NEET",
     "batch_name": "Yakeen NEET 4.0 2024",
     "batch_slug": "yakeen-neet-4-0-2024-796501",
-    "batch_start_date": "2023-08-27T18:30:00.000Z"
+    "batch_start_date": "2023-08-27T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "651865cf201c85f27e79a6a5",
@@ -767,7 +843,8 @@
     "batch_exam": "NEET",
     "batch_name": "Yakeen NEET 5.0 2024",
     "batch_slug": "yakeen-neet-5-0-2024-977228",
-    "batch_start_date": "2023-10-08T18:30:00.000Z"
+    "batch_start_date": "2023-10-08T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650bd2af201c85f27ee4ff7c",
@@ -777,7 +854,8 @@
     "batch_exam": "BOARD EXAM",
     "batch_name": "Parishram 2.0 2024",
     "batch_slug": "parishram-2-0-2024-394734",
-    "batch_start_date": "2023-07-30T18:30:00.000Z"
+    "batch_start_date": "2023-07-30T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650bd4da201c85f27ee55cba",
@@ -787,7 +865,8 @@
     "batch_exam": "BOARD EXAM",
     "batch_name": "Parishram 2024",
     "batch_slug": "parishram-2024-137700",
-    "batch_start_date": "2023-05-07T18:30:00.000Z"
+    "batch_start_date": "2023-05-07T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650d7567201c85f27e1ccd6f",
@@ -797,7 +876,8 @@
     "batch_exam": "BOARD EXAM",
     "batch_name": "Board Booster for 12th 2023 (Bangla)",
     "batch_slug": "board-booster-for-12th-2023--bangla--281206",
-    "batch_start_date": "2022-12-16T18:30:00.000Z"
+    "batch_start_date": "2022-12-16T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "65126f71201c85f27eb9ede5",
@@ -807,7 +887,8 @@
     "batch_exam": "BOARD EXAM",
     "batch_name": "Board Booster for 12th 2023(Marathi)",
     "batch_slug": "board-booster-for-12th-2023-marathi--303749",
-    "batch_start_date": "2022-12-16T18:30:00.000Z"
+    "batch_start_date": "2022-12-16T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650bdbe5201c85f27ee6a6e7",
@@ -817,7 +898,8 @@
     "batch_exam": "BOARD EXAM",
     "batch_name": "Parishram 2.0 2023",
     "batch_slug": "parishram-2-0-2023-810484",
-    "batch_start_date": "2022-09-25T18:30:00.000Z"
+    "batch_start_date": "2022-09-25T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "65199095201c85f27ea2b235",
@@ -827,7 +909,8 @@
     "batch_exam": "FOUNDATION",
     "batch_name": "Umang 2.0 2024",
     "batch_slug": "umang-2-0-2024-138394",
-    "batch_start_date": "2023-09-24T18:30:00.000Z"
+    "batch_start_date": "2023-09-24T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "6519905d201c85f27ea2a6fb",
@@ -837,7 +920,8 @@
     "batch_exam": "FOUNDATION",
     "batch_name": "Umang 2024",
     "batch_slug": "umang-2024-104488",
-    "batch_start_date": "2023-07-02T18:30:00.000Z"
+    "batch_start_date": "2023-07-02T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650c17ab201c85f27eefe680",
@@ -847,7 +931,8 @@
     "batch_exam": "FOUNDATION",
     "batch_name": "Junoon 2024",
     "batch_slug": "junoon-2024-531612",
-    "batch_start_date": "2023-07-02T18:30:00.000Z"
+    "batch_start_date": "2023-07-02T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650c4026201c85f27ef54e67",
@@ -857,7 +942,8 @@
     "batch_exam": "NEET",
     "batch_name": "Lakshya 11th NEET Rapid Revision Course",
     "batch_slug": "lakshya-11th-neet-rapid-revision-course-112980",
-    "batch_start_date": "2023-07-16T18:30:00.000Z"
+    "batch_start_date": "2023-07-16T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650ff864201c85f27e6ca535",
@@ -867,7 +953,8 @@
     "batch_exam": "IIT/JEE",
     "batch_name": "Lakshya 11th JEE Rapid Revision Course 2024",
     "batch_slug": "lakshya-11th-jee-rapid-revision-course-2024-189220",
-    "batch_start_date": "2023-07-16T18:30:00.000Z"
+    "batch_start_date": "2023-07-16T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650bd47c201c85f27ee547e8",
@@ -877,7 +964,8 @@
     "batch_exam": "NDA",
     "batch_name": "NDA Shaurya 1.0, 2024",
     "batch_slug": "nda-shaurya-1-0--2024-462660",
-    "batch_start_date": "2023-09-24T18:30:00.000Z"
+    "batch_start_date": "2023-09-24T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "6516ee31201c85f27e45ca93",
@@ -887,7 +975,8 @@
     "batch_exam": "NDA",
     "batch_name": "NDA Shaurya 1.0 2024",
     "batch_slug": "nda-shaurya-1-0-2024-604783",
-    "batch_start_date": "2023-09-24T18:30:00.000Z"
+    "batch_start_date": "2023-09-24T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650be027201c85f27ee77ee6",
@@ -897,7 +986,8 @@
     "batch_exam": "NDA",
     "batch_name": "NDA Foundation",
     "batch_slug": "nda-foundation-375866",
-    "batch_start_date": "2023-07-09T18:30:00.000Z"
+    "batch_start_date": "2023-07-09T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "6511b7fd201c85f27ea56d8c",
@@ -907,7 +997,8 @@
     "batch_exam": "NDA",
     "batch_name": "CDS-2 Viraat 2023",
     "batch_slug": "cds-2-viraat-2023-252669",
-    "batch_start_date": "2023-05-19T18:30:00.000Z"
+    "batch_start_date": "2023-05-19T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650c6131201c85f27efa85a7",
@@ -917,7 +1008,8 @@
     "batch_exam": "NDA",
     "batch_name": "Shaurya 2.0",
     "batch_slug": "shaurya-2-0-046962",
-    "batch_start_date": "2023-04-24T18:30:00.000Z"
+    "batch_start_date": "2023-04-24T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "65423fe6201c85f27e4a97bc",
@@ -927,7 +1019,8 @@
     "batch_exam": "NDA",
     "batch_name": "Fast Track Shaurya NDA  Crash Course",
     "batch_slug": "fast-track-shaurya-nda-crash-course-441840",
-    "batch_start_date": "2023-02-09T18:30:00.000Z"
+    "batch_start_date": "2023-02-09T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "652fd265201c85f27ec1497f",
@@ -937,7 +1030,8 @@
     "batch_exam": "GATE",
     "batch_name": "GATE 2024 Computer Science & IT Super 1500",
     "batch_slug": "gate-2024-computer-science-and-it-super-1500-206926",
-    "batch_start_date": "2023-10-15T18:30:00.000Z"
+    "batch_start_date": "2023-10-15T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650dbe54201c85f27e26addc",
@@ -947,7 +1041,8 @@
     "batch_exam": "GATE",
     "batch_name": "Mission ISRO 2023 - Computer Science",
     "batch_slug": "mission-isro-2023---computer-science-195960",
-    "batch_start_date": "2023-06-30T18:30:00.000Z"
+    "batch_start_date": "2023-06-30T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650dbfad201c85f27e26e493",
@@ -957,7 +1052,8 @@
     "batch_exam": "GATE",
     "batch_name": "NIC - Param",
     "batch_slug": "nic---param-728231",
-    "batch_start_date": "2023-04-02T18:30:00.000Z"
+    "batch_start_date": "2023-04-02T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "6512f385201c85f27eca27d1",
@@ -967,7 +1063,8 @@
     "batch_exam": "GATE",
     "batch_name": "Shreshth 2.0 GATE - 2025 Computer Science Weekday (Hinglish)",
     "batch_slug": "shreshth-2-0-gate---2025-computer-science-weekday--hinglish--671549",
-    "batch_start_date": "2023-03-19T18:30:00.000Z"
+    "batch_start_date": "2023-03-19T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "6543105d201c85f27e672732",
@@ -977,7 +1074,8 @@
     "batch_exam": "GATE",
     "batch_name": "Parakram GATE-2024 Batch - B Mechanical Weekday (Hinglish)",
     "batch_slug": "parakram-gate-2024-batch---b-mechanical-weekday--hinglish--643302",
-    "batch_start_date": "2022-12-20T18:30:00.000Z"
+    "batch_start_date": "2022-12-20T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "654ddc55201c85f27eea0480",
@@ -987,7 +1085,8 @@
     "batch_exam": "GATE",
     "batch_name": "Parakram GATE-2024 Batch - B Computer Science Weekend (Hinglish)",
     "batch_slug": "parakram-gate-2024-batch---b-computer-science-weekend--hinglish--419628",
-    "batch_start_date": "2022-12-03T18:30:00.000Z"
+    "batch_start_date": "2022-12-03T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650d1f4f201c85f27e1165e9",
@@ -997,7 +1096,8 @@
     "batch_exam": "GATE",
     "batch_name": "GATE Wallah (English)",
     "batch_slug": "gate-wallah--english--668068",
-    "batch_start_date": "2022-10-25T18:30:00.000Z"
+    "batch_start_date": "2022-10-25T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "652fd33c201c85f27ec16cad",
@@ -1007,7 +1107,8 @@
     "batch_exam": "GATE",
     "batch_name": "Parakram GATE 2024 Computer science Weekday (Hinglish)",
     "batch_slug": "parakram-gate-2024-computer-science-weekday--hinglish--613873",
-    "batch_start_date": "2022-10-09T18:30:00.000Z"
+    "batch_start_date": "2022-10-09T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650d1f0a201c85f27e115bc4",
@@ -1017,7 +1118,8 @@
     "batch_exam": "GATE",
     "batch_name": "GATE Crash Course 2023 Mechanical",
     "batch_slug": "gate-crash-course-2023-mechanical-768359",
-    "batch_start_date": "2022-10-02T18:30:00.000Z"
+    "batch_start_date": "2022-10-02T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650d1f18201c85f27e115d92",
@@ -1027,7 +1129,8 @@
     "batch_exam": "GATE",
     "batch_name": "GATE Crash Course 2023 Civil",
     "batch_slug": "gate-crash-course-2023-civil-862188",
-    "batch_start_date": "2022-10-02T18:30:00.000Z"
+    "batch_start_date": "2022-10-02T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650d1f27201c85f27e116010",
@@ -1037,7 +1140,8 @@
     "batch_exam": "GATE",
     "batch_name": "GATE Crash Course 2023 Electrical",
     "batch_slug": "gate-crash-course-2023-electrical-537559",
-    "batch_start_date": "2022-10-02T18:30:00.000Z"
+    "batch_start_date": "2022-10-02T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650d1f34201c85f27e1161e3",
@@ -1047,7 +1151,8 @@
     "batch_exam": "GATE",
     "batch_name": "GATE Crash Course 2023 Electronics",
     "batch_slug": "gate-crash-course-2023-electronics-208534",
-    "batch_start_date": "2022-10-02T18:30:00.000Z"
+    "batch_start_date": "2022-10-02T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650d1f41201c85f27e1163fa",
@@ -1057,7 +1162,8 @@
     "batch_exam": "GATE",
     "batch_name": "GATE Crash Course 2023 Computer science",
     "batch_slug": "gate-crash-course-2023-computer-science-316852",
-    "batch_start_date": "2022-10-02T18:30:00.000Z"
+    "batch_start_date": "2022-10-02T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "65211132201c85f27eafc4a0",
@@ -1067,7 +1173,8 @@
     "batch_exam": "UPSC",
     "batch_name": "Sankalp (UPSC 2024)",
     "batch_slug": "sankalp--upsc-2024--167831",
-    "batch_start_date": "2022-11-14T18:30:00.000Z"
+    "batch_start_date": "2022-11-14T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650fbbb0201c85f27e647fbf",
@@ -1077,7 +1184,8 @@
     "batch_exam": "UPSC",
     "batch_name": "Prahar (UPSC 2023)",
     "batch_slug": "prahar--upsc-2023--019384",
-    "batch_start_date": "2022-11-06T18:30:00.000Z"
+    "batch_start_date": "2022-11-06T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "651996e4201c85f27ea3b16c",
@@ -1087,7 +1195,8 @@
     "batch_exam": "IIT JAM & CSIR NET",
     "batch_name": "Saakaar Batch for IIT JAM Physics",
     "batch_slug": "saakaar-batch-for-iit-jam-physics-246702",
-    "batch_start_date": "2023-02-19T18:30:00.000Z"
+    "batch_start_date": "2023-02-19T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "651329ed201c85f27ed10904",
@@ -1097,7 +1206,8 @@
     "batch_exam": "IIT JAM & CSIR NET",
     "batch_name": "Shodh Batch for Physical Sciences",
     "batch_slug": "shodh-batch-for-physical-sciences-990589",
-    "batch_start_date": "2023-02-12T18:30:00.000Z"
+    "batch_start_date": "2023-02-12T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "6551cd72201c85f27e6b522f",
@@ -1107,7 +1217,8 @@
     "batch_exam": "SSC",
     "batch_name": "Maths Foundation Batch",
     "batch_slug": "maths-foundation-batch-268237",
-    "batch_start_date": "2023-11-04T18:30:00.000Z"
+    "batch_start_date": "2023-11-04T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "6512965f201c85f27ebe97c8",
@@ -1117,7 +1228,8 @@
     "batch_exam": "SSC",
     "batch_name": "Karmath SSC MTS 2023",
     "batch_slug": "karmath-ssc-mts-2023-816886",
-    "batch_start_date": "2023-06-18T18:30:00.000Z"
+    "batch_start_date": "2023-06-18T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650d7664201c85f27e1cf566",
@@ -1127,7 +1239,8 @@
     "batch_exam": "SSC",
     "batch_name": "Nishchay 4.0 CHSL (SSC Wallah) (निश्चय 4.0)",
     "batch_slug": "nishchay-4-0-chsl--ssc-wallah---निश्चय-4-0--569692",
-    "batch_start_date": "2023-06-12T18:30:00.000Z"
+    "batch_start_date": "2023-06-12T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650d76d5201c85f27e1d0f29",
@@ -1137,7 +1250,8 @@
     "batch_exam": "SSC",
     "batch_name": "SSC CGL 2023-24 - G.S. Special",
     "batch_slug": "ssc-cgl-2023-24---g-s--special-642015",
-    "batch_start_date": "2023-05-29T18:30:00.000Z"
+    "batch_start_date": "2023-05-29T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "651b00d0201c85f27ed6a62c",
@@ -1147,7 +1261,8 @@
     "batch_exam": "SSC",
     "batch_name": "SSC CHSL 2023 Nishchay 3.0 (निश्चय)",
     "batch_slug": "ssc-chsl-2023-nishchay-3-0--निश्चय--071401",
-    "batch_start_date": "2023-05-15T18:30:00.000Z"
+    "batch_start_date": "2023-05-15T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650d2585201c85f27e1255c1",
@@ -1157,7 +1272,8 @@
     "batch_exam": "SSC",
     "batch_name": "SSC GD Constable Video Course",
     "batch_slug": "ssc-gd-constable-video-course-696867",
-    "batch_start_date": "2023-04-10T18:30:00.000Z"
+    "batch_start_date": "2023-04-10T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650be00d201c85f27ee76ce6",
@@ -1167,7 +1283,8 @@
     "batch_exam": "SSC",
     "batch_name": "SSC MTS Prachand (प्रचंड)",
     "batch_slug": "ssc-mts-prachand--प्रचंड--677178",
-    "batch_start_date": "2023-01-26T18:30:00.000Z"
+    "batch_start_date": "2023-01-26T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650d25d5201c85f27e1267aa",
@@ -1177,7 +1294,8 @@
     "batch_exam": "SSC",
     "batch_name": "SSC GD MATHS क्रैश कोर्स,  20 दिन 20 चैप्टर",
     "batch_slug": "ssc-gd-maths-क्रैश-कोर्स--20-दिन-20-चैप्टर-282492",
-    "batch_start_date": "2022-12-11T18:30:00.000Z"
+    "batch_start_date": "2022-12-11T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "653bbc48201c85f27e618f6d",
@@ -1187,7 +1305,8 @@
     "batch_exam": "COMMERCE",
     "batch_name": "Kautilya 2.0 (State Board)",
     "batch_slug": "kautilya-2-0--state-board--203181",
-    "batch_start_date": "2023-07-02T18:30:00.000Z"
+    "batch_start_date": "2023-07-02T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "6537e6ef201c85f27edb0832",
@@ -1197,7 +1316,8 @@
     "batch_exam": "COMMERCE",
     "batch_name": "Kautilya",
     "batch_slug": "kautilya-609360",
-    "batch_start_date": "2023-04-02T18:30:00.000Z"
+    "batch_start_date": "2023-04-02T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "651e7656201c85f27e520765",
@@ -1207,7 +1327,8 @@
     "batch_exam": "COMMERCE",
     "batch_name": "Kautilya 3.0",
     "batch_slug": "kautilya-3-0-825677",
-    "batch_start_date": "2023-09-10T18:30:00.000Z"
+    "batch_start_date": "2023-09-10T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "651e76fe201c85f27e5222cb",
@@ -1217,7 +1338,8 @@
     "batch_exam": "COMMERCE",
     "batch_name": "Kautilya 2.0 CBSE Board",
     "batch_slug": "kautilya-2-0-cbse-board-181612",
-    "batch_start_date": "2023-07-02T18:30:00.000Z"
+    "batch_start_date": "2023-07-02T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650d514d201c85f27e181630",
@@ -1227,7 +1349,8 @@
     "batch_exam": "IIT JAM & CSIR NET",
     "batch_name": "Saakaar Batch for IIT JAM Mathematics",
     "batch_slug": "saakaar-batch-for-iit-jam-mathematics-189157",
-    "batch_start_date": "2023-02-19T18:30:00.000Z"
+    "batch_start_date": "2023-02-19T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "65147722201c85f27ef7fa3f",
@@ -1237,7 +1360,8 @@
     "batch_exam": "IIT JAM & CSIR NET",
     "batch_name": "Saakaar Batch for IIT JAM Chemistry",
     "batch_slug": "saakaar-batch-for-iit-jam-chemistry-053831",
-    "batch_start_date": "2023-02-19T18:30:00.000Z"
+    "batch_start_date": "2023-02-19T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "65115011201c85f27e973bca",
@@ -1247,7 +1371,8 @@
     "batch_exam": "CA",
     "batch_name": "CA Intermediate Udesh Fastrack Nov Group 2",
     "batch_slug": "ca-intermediate-udesh-fastrack-nov-group-2-620242",
-    "batch_start_date": "2023-07-14T18:30:00.000Z"
+    "batch_start_date": "2023-07-14T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "65145a9e201c85f27ef46e11",
@@ -1257,7 +1382,8 @@
     "batch_exam": "CA",
     "batch_name": "CA Intermediate Udesh Fastrack Advanced Accounting (Group 2)",
     "batch_slug": "ca-intermediate-udesh-fastrack-advanced-accounting--group-2--597696",
-    "batch_start_date": "2023-07-07T18:30:00.000Z"
+    "batch_start_date": "2023-07-07T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650c2512201c85f27ef1c805",
@@ -1267,7 +1393,8 @@
     "batch_exam": "CA",
     "batch_name": "Udesh Regular Group 2 Nov",
     "batch_slug": "udesh-regular-group-2-nov-891442",
-    "batch_start_date": "2023-06-01T18:30:00.000Z"
+    "batch_start_date": "2023-06-01T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650c289b201c85f27ef24119",
@@ -1277,7 +1404,8 @@
     "batch_exam": "CA",
     "batch_name": "Udesh Regular Group 1 Nov",
     "batch_slug": "udesh-regular-group-1-nov-044153",
-    "batch_start_date": "2023-02-19T18:30:00.000Z"
+    "batch_start_date": "2023-02-19T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "6518fdc4201c85f27e8c9343",
@@ -1287,7 +1415,8 @@
     "batch_exam": "Banking",
     "batch_name": "Bank Mahapack (1 Year)",
     "batch_slug": "bank-mahapack--1-year--159163",
-    "batch_start_date": "2023-01-30T18:30:00.000Z"
+    "batch_start_date": "2023-01-30T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "6518fdac201c85f27e8c8fc9",
@@ -1297,7 +1426,8 @@
     "batch_exam": "Banking",
     "batch_name": "Bank Mahavishwas Pack (2-Year Subscription)",
     "batch_slug": "bank-mahavishwas-pack--2-year-subscription--812519",
-    "batch_start_date": "2023-02-27T18:30:00.000Z"
+    "batch_start_date": "2023-02-27T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "65192552201c85f27e927cf3",
@@ -1307,7 +1437,8 @@
     "batch_exam": "Banking",
     "batch_name": "Achievers SBI PO Complete batch for (Pre+Mains)",
     "batch_slug": "achievers-sbi-po-complete-batch-for--pre-mains--334826",
-    "batch_start_date": "2023-03-24T18:30:00.000Z"
+    "batch_start_date": "2023-03-24T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "6516a909201c85f27e3b153e",
@@ -1317,7 +1448,8 @@
     "batch_exam": "Banking",
     "batch_name": "Banking Quant Complete Foundation",
     "batch_slug": "banking-quant-complete-foundation-872366",
-    "batch_start_date": "2023-05-31T18:30:00.000Z"
+    "batch_start_date": "2023-05-31T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "65168a98201c85f27e3676b3",
@@ -1327,7 +1459,8 @@
     "batch_exam": "Banking",
     "batch_name": "Vardaan Reasoning Video Course Pre+Mains",
     "batch_slug": "vardaan-reasoning-video-course-pre-mains-846069",
-    "batch_start_date": "2023-06-15T18:30:00.000Z"
+    "batch_start_date": "2023-06-15T18:30:00.000Z",
+    "type": "0"
   },
   {
     "_id": "650e9f1f201c85f27e419bb0",
@@ -1337,6 +1470,7 @@
     "batch_exam": "Banking",
     "batch_name": "CDS Viraat 1.0,2024",
     "batch_slug": "cds-viraat-1-0-2024-096201",
-    "batch_start_date": "2023-09-24T18:30:00.000Z"
+    "batch_start_date": "2023-09-24T18:30:00.000Z",
+    "type": "0"
   }
 ]
