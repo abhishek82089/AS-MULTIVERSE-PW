@@ -1512,5 +1512,125 @@
     "batch_slug": "cds-viraat-1-0-2024-096201",
     "batch_start_date": "2023-09-24T18:30:00.000Z",
     "type": "0"
+  },
+  {
+    "_id": "657c19762987eab0da7ee0c9",
+    "batch_id": "6561e71925e823001802517f",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/2da100cf-9c65-43ac-9c27-fd34f308c4fd.png",
+    "batch_class": "12th+",
+    "batch_exam": "NEET",
+    "batch_name": "Aarambh NEET 2024",
+    "batch_slug": "aarambh-neet-2024-206375",
+    "batch_start_date": "2023-12-03T18:30:00.000Z"
+  },
+  {
+    "_id": "655de5e52987eab0da42867d",
+    "batch_id": "6543ac1008eb1900181d4335",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/418030a3-b581-414a-92b6-95c996049e01.png",
+    "batch_class": "12th+",
+    "batch_exam": "NEET",
+    "batch_name": "Yakeen NEET 6.0 2024",
+    "batch_slug": "yakeen-neet-6-0-2024-645247",
+    "batch_start_date": "2023-11-19T18:30:00.000Z"
+  },
+  {
+    "_id": "65281c7d201c85f27eae24f4",
+    "batch_id": "6521371e791fa900186dfb48",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/1b3e0bf2-7cdf-4faa-9153-504d1c97afba.png",
+    "batch_class": "12th+",
+    "batch_exam": "NEET",
+    "batch_name": "Biomolecules",
+    "batch_slug": "biomolecules-953073",
+    "batch_start_date": "2023-10-10T18:30:00.000Z"
+  },
+  {
+    "_id": "6514693a201c85f27ef63b87",
+    "batch_id": "64a7f372ddfa9000187afe92",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/6b89f34c-73da-460e-b26a-4b5f1f45239e.png",
+    "batch_class": "12th+",
+    "batch_exam": "NEET",
+    "batch_name": "Vidyapeeth 11-YN403EB",
+    "batch_slug": "vidyapeeth-11-yn403eb-198558",
+    "batch_start_date": "2023-07-09T18:30:00.000Z"
+  },
+  {
+    "_id": "650fe9b9201c85f27e6aae08",
+    "batch_id": "6471af1d226fdf00183ff865",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/7b945bec-2799-47bc-865d-08af4d99292b.png",
+    "batch_class": "12th+",
+    "batch_exam": "NEET",
+    "batch_name": "Yakeen NEET English 2024",
+    "batch_slug": "yakeen-neet-english-2024-033088",
+    "batch_start_date": "2023-06-18T18:30:00.000Z"
+  },
+  {
+    "_id": "65146ccd201c85f27ef6b411",
+    "batch_id": "63988c712611d10040dce05c",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/84673622-5dcf-41ca-95d9-01cced5ed465.png",
+    "batch_class": "12th+",
+    "batch_exam": "NEET",
+    "batch_name": "Vidyapeeth Dropper NEET (Target 2024)",
+    "batch_slug": "vidyapeeth-dropper-neet--target-2024--491031",
+    "batch_start_date": "2023-04-15T18:30:00.000Z"
+  },
+  {
+    "_id": "65132b8e201c85f27ed13cbc",
+    "batch_id": "644295ded8a55d001873e1cc",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/55c71baf-298b-4e83-818c-27e5a0508a3d.jpg",
+    "batch_class": "12th+",
+    "batch_exam": "NEET",
+    "batch_name": "Vidyapeeth 26-YN103MA",
+    "batch_slug": "vidyapeeth-26-yn103ma-628197",
+    "batch_start_date": "2023-04-14T18:30:00.000Z"
+  },
+  {
+    "_id": "650d1c96201c85f27e110764",
+    "batch_id": "6428090f4e8fca00187ed4e8",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/4a3bf8ec-21e8-45e8-be43-2fc36da02822.png",
+    "batch_class": "12th+",
+    "batch_exam": "NEET",
+    "batch_name": "NEET Selection Express 2023 (PW Hindi)",
+    "batch_slug": "neet-selection-express-2023--pw-hindi--839211",
+    "batch_start_date": "2023-04-02T18:30:00.000Z"
+  },
+  {
+    "_id": "650bde58201c85f27ee71a63",
+    "batch_id": "63ed31a6f189ac0018436762",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/4f7262f9-6fe9-4296-b540-3991739a9344.jpg",
+    "batch_class": "12th+",
+    "batch_exam": "NEET",
+    "batch_name": "Ummeed 2023",
+    "batch_slug": "ummeed-2023-650019",
+    "batch_start_date": "2023-02-20T18:30:00.000Z"
+  },
+  {
+    "_id": "650d9560201c85f27e212981",
+    "batch_id": "63c2692a40df5e0018718bde",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/1f28b913-43eb-4555-8843-ef8b62efabdb.png",
+    "batch_class": "12th+",
+    "batch_exam": "NEET",
+    "batch_name": "Vidyapeeth01-AN11E-23",
+    "batch_slug": "vidyapeeth01-an11e-23-841431",
+    "batch_start_date": "2023-01-18T18:30:00.000Z"
+  },
+  {
+    "_id": "651851bb201c85f27e76977b",
+    "batch_id": "6309d3f14a98400011a399f5",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/41de58e2-d524-47d8-9a05-89735b73d4f0.png",
+    "batch_class": "12th+",
+    "batch_exam": "NEET",
+    "batch_name": "Vidyapeeth 02-YN35E",
+    "batch_slug": "vidyapeeth-02-yn35e-412449",
+    "batch_start_date": "2022-08-31T18:30:00.000Z"
+  },
+  {
+    "_id": "65106df5201c85f27e7c4aae",
+    "batch_id": "5ff1a71ff9d2ea099bb0026d",
+    "batch_banner": "https://d1qs8w2pzjtoy9.cloudfront.net/5eb393ee95fab7468a79d189/87a52ff4-5659-4d90-9bef-92cdb8aa5f88.png",
+    "batch_class": "12th+",
+    "batch_exam": "NEET",
+    "batch_name": "Dropper English Medium-NEET Crash Course",
+    "batch_slug": "dropper-english-medium-neet-crash-course-911247",
+    "batch_start_date": "2021-01-05T18:30:00.000Z"
   }
 ]
