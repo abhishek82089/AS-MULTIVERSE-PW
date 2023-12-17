@@ -286,6 +286,46 @@
     "type": "0"
   },
   {
+    "_id": "6512ea3f201c85f27ec8d5b0",
+    "batch_id": "6496992329c1f60019e104c7",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/88485162-3f91-4c0c-932c-c496a07562f4.png",
+    "batch_class": "12th+",
+    "batch_exam": "Skills",
+    "batch_name": "DECODE DSA with C++ 2.0",
+    "batch_slug": "decode-dsa-with-c---2-0-358317",
+    "batch_start_date": "2023-08-09T18:30:00.000Z"
+  },
+  {
+    "_id": "650bf11c201c85f27eea83a2",
+    "batch_id": "642ac80e864b660018713313",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/d3e3daca-1e8a-4b5d-a890-1bf89bff4669.png",
+    "batch_class": "12th+",
+    "batch_exam": "Skills",
+    "batch_name": "Data Science Masters 2.0(IMPACT 2.0) (Hinglish)",
+    "batch_slug": "data-science-masters-2-0-impact-2-0---hinglish--696086",
+    "batch_start_date": "2023-05-05T18:30:00.000Z"
+  },
+  {
+    "_id": "65770f5c2987eab0dac7d9f4",
+    "batch_id": "642ad4a1380544001877741c",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/e39ffc2b-e0fd-43e0-86c5-b23ad314c0f0.png",
+    "batch_class": "12th+",
+    "batch_exam": "Skills",
+    "batch_name": "Java with DSA & System Design 2.0 (BINARY 2.0) (Hinglish)",
+    "batch_slug": "java-with-dsa-and-system-design-2-0--binary-2-0---hinglish--731363",
+    "batch_start_date": "2023-05-12T18:30:00.000Z"
+  },
+  {
+    "_id": "6512e9b0201c85f27ec8c0c8",
+    "batch_id": "63ee2c24152c550018c515b7",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/50e26e69-903d-4bae-bd28-9f44a2a80f9b.png",
+    "batch_class": "12th+",
+    "batch_exam": "Skills",
+    "batch_name": "Decode",
+    "batch_slug": "decode-713720",
+    "batch_start_date": "2023-02-26T18:30:00.000Z"
+  },
+  {
     "_id": "650be337201c85f27ee81103",
     "batch_id": "6311e3f5726a5d001165ad64",
     "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/5c89acd5-e36f-46ee-870c-39a70959a458.jpg",
