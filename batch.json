@@ -11,6 +11,86 @@
     "type": "0"
   },
   {
+    "_id": "659d6c592987eab0da48e9a2",
+    "batch_id": "659950ed46646a00197f2573",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/c83cff82-e284-4f3f-967a-5ad8943783bb.png",
+    "batch_class": "10th",
+    "batch_exam": "BOARD EXAM",
+    "batch_name": "10th Board Booster 2.0 2024",
+    "batch_slug": "10th-board-booster-2-0-2024-262348",
+    "batch_start_date": "2024-01-14T18:30:00.000Z"
+  },
+  {
+    "_id": "65a771922987eab0dab64f9a",
+    "batch_id": "659972b02d88b00018b5ca20",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/1446c819-c766-4a29-ab47-defea088dc1a.png",
+    "batch_class": "12th",
+    "batch_exam": "BOARD EXAM",
+    "batch_name": "12th Board Booster 2.0 2024",
+    "batch_slug": "12th-board-booster-2-0-2024-845426",
+    "batch_start_date": "2024-01-14T18:30:00.000Z"
+  },
+  {
+    "_id": "656949412987eab0dad7f29a",
+    "batch_id": "6530dfda3cc0bb00189b681c",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/5e0f6bff-e565-4edb-8343-60a88bd7645f.png",
+    "batch_class": "10th",
+    "batch_exam": "BOARD EXAM",
+    "batch_name": "10th Board Booster 2024",
+    "batch_slug": "10th-board-booster-2024-923011",
+    "batch_start_date": "2023-11-19T18:30:00.000Z"
+  },
+  {
+    "_id": "6587196d2987eab0da103314",
+    "batch_id": "6544b7b61758dd0018bfe5aa",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/b401557a-92ce-4f11-ad79-fc5d76b801f6.png",
+    "batch_class": "12th",
+    "batch_exam": "BOARD EXAM",
+    "batch_name": "Board Booster Gujarati 12th 2024",
+    "batch_slug": "board-booster-gujarati-12th-2024-948757",
+    "batch_start_date": "2023-11-19T18:30:00.000Z"
+  },
+  {
+    "_id": "65649c032987eab0da2f9ae5",
+    "batch_id": "6538e7ff47c43f001828efa6",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/f8c0fe82-76e8-4e39-9032-c2d0bb01164e.png",
+    "batch_class": "12th",
+    "batch_exam": "BOARD EXAM",
+    "batch_name": "Board Booster Bangla 12th 2024",
+    "batch_slug": "board-booster-bangla-12th-2024-724966",
+    "batch_start_date": "2023-11-15T18:30:00.000Z"
+  },
+  {
+    "_id": "650c97a3201c85f27e01d8d1",
+    "batch_id": "639b7af66e76ce006718b2f1",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/976806ac-1a2b-400a-b5b1-f173a5c6b78a.png",
+    "batch_class": "10th",
+    "batch_exam": "BOARD EXAM",
+    "batch_name": "Board Booster for 10th (Pure Hindi)",
+    "batch_slug": "board-booster-for-10th--pure-hindi--822022",
+    "batch_start_date": "2023-01-04T18:30:00.000Z"
+  },
+  {
+    "_id": "650d7567201c85f27e1ccd6f",
+    "batch_id": "639b6bdc3ef7c10284e030c2",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/02cc1334-05ab-4e14-a630-f0f3f6366fe0.png",
+    "batch_class": "12th",
+    "batch_exam": "BOARD EXAM",
+    "batch_name": "Board Booster for 12th 2023 (Bangla)",
+    "batch_slug": "board-booster-for-12th-2023--bangla--281206",
+    "batch_start_date": "2022-12-16T18:30:00.000Z"
+  },
+  {
+    "_id": "65126f71201c85f27eb9ede5",
+    "batch_id": "639b72ed658a4100aa013d93",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/dc71f99f-cb1f-44dd-b855-15b653e59ae3.png",
+    "batch_class": "12th",
+    "batch_exam": "BOARD EXAM",
+    "batch_name": "Board Booster for 12th 2023(Marathi)",
+    "batch_slug": "board-booster-for-12th-2023-marathi--303749",
+    "batch_start_date": "2022-12-16T18:30:00.000Z"
+  },
+  {
     "_id": "657997322987eab0da2323f4",
     "batch_id": "6530dfdbd5f8c100183223fb",
     "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/f9ee9103-0c17-4158-abf5-6e4386a977ea.png",
