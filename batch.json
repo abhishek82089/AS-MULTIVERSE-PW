@@ -1,5 +1,95 @@
 [
   {
+    "_id": "65ce18afa96bd21dfb43ae86",
+    "batch_name": "CUET Mega Mock Test Batch",
+    "batch_start_date": "2023-12-14T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "657bdfbce175cd0018bf0cb2",
+    "batch_slug": "cuet-mega-mock-test-batch-920154",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/45aecd54-2503-42d7-a379-ae63ce0a5d03.png",
+    "batch_exam": "CUET UG"
+  },
+  {
+    "_id": "65cce369a96bd21dfb42c297",
+    "batch_name": "Pravesh Science 2024",
+    "batch_start_date": "2023-10-22T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "651fb40fb7e6c90018387294",
+    "batch_slug": "pravesh-science-2024-760768",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/69be083d-1c3c-4a59-9e0e-153ecb09eb36.png",
+    "batch_exam": "CUET UG"
+  },
+  {
+    "_id": "65cbc5bcb9b6843415b2e68c",
+    "batch_name": "GATE 2024 Electronics Super 1500",
+    "batch_start_date": "2023-10-17T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "65009b95677cb7001873f90d",
+    "batch_slug": "gate-2024-electronics-super-1500-058752",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/78da4750-4826-4adb-bf8e-11eb5381c2b5.png",
+    "batch_exam": "GATE"
+  },
+  {
+    "_id": "65cd0242a96bd21dfb4334d7",
+    "batch_name": "GATE 2024 Computer Science & IT Super 1500",
+    "batch_start_date": "2023-10-15T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "65009b95b4b12c0018341566",
+    "batch_slug": "gate-2024-computer-science-and-it-super-1500-206926",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/bbe7b835-aac3-4f50-9b6d-f30ad8415cbf.png",
+    "batch_exam": "GATE"
+  },
+  {
+    "_id": "65cd6590a96bd21dfb433925",
+    "batch_name": "Parakram GATE 2024 - Data Science & AI",
+    "batch_start_date": "2023-08-27T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "64d9d08d5c5e2e0018dc3e61",
+    "batch_slug": "parakram-gate-2024---data-science-and-ai-190778",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/bc6e6bae-87ec-4573-8175-77b136872c85.png",
+    "batch_exam": "GATE"
+  },
+  {
+    "_id": "65cd0172a96bd21dfb432f15",
+    "batch_name": "Vijay B - Computer Science Weekday Hinglish",
+    "batch_start_date": "2023-06-18T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "6481c9ab5f45ac001819b2ee",
+    "batch_slug": "vijay-b---computer-science-weekday-hinglish-934467",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/8268cb73-01de-48a0-b7f7-346723cc8477.png",
+    "batch_exam": "GATE"
+  },
+  {
+    "_id": "65cbc733b9b6843415b2ee52",
+    "batch_name": "Parakram 2.0 GATE - 2024 Electronics Weekday (Hinglish)",
+    "batch_start_date": "2023-03-19T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "63f7b1649f56ae0018510779",
+    "batch_slug": "parakram-2-0-gate---2024-electronics-weekday--hinglish--668812",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/fb6e0f9f-0fb4-4e8c-8205-007e9f969bfe.png",
+    "batch_exam": "GATE"
+  },
+  {
+    "_id": "65cdb159a96bd21dfb439efc",
+    "batch_name": "Vijay(Dropper Batch)- Computer Science Weekday Hinglish",
+    "batch_start_date": "2023-03-19T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "63f86eb7b4a1d40018e5d7d8",
+    "batch_slug": "vijay-dropper-batch---computer-science-weekday-hinglish-179216",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/525cf968-98a8-4c0b-a023-0f6f480c405c.png",
+    "batch_exam": "GATE"
+  },
+  {
+    "_id": "65cd6685a96bd21dfb433cab",
+    "batch_name": "GATE 2025 Engineering Mathematics and Aptitude  (Hinglish)",
+    "batch_start_date": "2023-03-09T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "63f0e99118cf3a0017aff883",
+    "batch_slug": "gate-2025-engineering-mathematics-and-aptitude--hinglish--875565",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/472ad6af-2b7d-42ba-bca2-dae0884c46fb.png",
+    "batch_exam": "GATE"
+  },
+  {
     "_id": "65cd6aaca96bd21dfb4345da",
     "batch_name": "CA Foundation Sampurna PRO June 2024",
     "batch_start_date": "2023-11-30T18:30:00.000Z",
