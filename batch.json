@@ -1,5 +1,15 @@
 [
   {
+    "_id": "65cdae9ea96bd21dfb438f7a",
+    "batch_name": "Decode Data Science with ML 1.0",
+    "batch_start_date": "2023-12-09T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "653cbc12a4c0fd001812f054",
+    "batch_slug": "decode-data-science-with-ml-1-0-010507",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/ff26cd65-f9d7-4c00-acdb-aede217bc82e.jpg",
+    "batch_exam": "Skills"
+  },
+  {
     "_id": "65cdf87aa96bd21dfb43ab14",
     "batch_name": "Ashoka 2024 Batch C - AE/JE Electrical",
     "batch_start_date": "2024-01-01T18:30:00.000Z",
