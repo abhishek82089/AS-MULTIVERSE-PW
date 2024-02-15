@@ -1,5 +1,45 @@
 [
   {
+    "_id": "65cc4358b9b6843415b49ec5",
+    "batch_name": "NDA Shaurya 1.0 2024",
+    "batch_start_date": "2023-09-24T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "64c7a459c1549000181b863c",
+    "batch_slug": "nda-shaurya-1-0-2024-604783",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/b49d92ac-4bdf-4eca-b726-50b548376479.png",
+    "batch_exam": "NDA"
+  },
+  {
+    "_id": "65ce3965a96bd21dfb43cbd8",
+    "batch_name": "NDA Foundation",
+    "batch_start_date": "2023-07-09T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "648c0c9f21fc890018dbff66",
+    "batch_slug": "nda-foundation-375866",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/8d2bca14-92ed-4e80-b929-41e66bd23257.jpeg",
+    "batch_exam": "NDA"
+  },
+  {
+    "_id": "65cc4062b9b6843415b491be",
+    "batch_name": "Shaurya 2.0",
+    "batch_start_date": "2023-04-24T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "63f34a481075350018d14aa6",
+    "batch_slug": "shaurya-2-0-046962",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/fe0e91c3-484f-46c1-b838-e53a0c8e7c75.png",
+    "batch_exam": "NDA"
+  },
+  {
+    "_id": "65cc4c30b9b6843415b4a8bc",
+    "batch_name": "Fast Track Shaurya NDA  Crash Course",
+    "batch_start_date": "2023-02-09T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "63d8b94ed512ab00189fea54",
+    "batch_slug": "fast-track-shaurya-nda-crash-course-441840",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/31426d83-77d5-413f-96bd-cd7d8a66fd5d.png",
+    "batch_exam": "NDA"
+  },
+  {
     "_id": "65cdae9ea96bd21dfb438f7a",
     "batch_name": "Decode Data Science with ML 1.0",
     "batch_start_date": "2023-12-09T18:30:00.000Z",
