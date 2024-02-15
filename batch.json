@@ -11,6 +11,66 @@
     "type": "0"
   },
   {
+    "_id": "65cd7bc7a96bd21dfb437e88",
+    "batch_name": "UPSC 2026/27 SCHOLARSHIP TEST",
+    "batch_start_date": "2023-09-20T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "65059a981870180018a389e1",
+    "batch_slug": "upsc-2026-27-scholarship-test-795975",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/17689e35-0231-4f5e-8d47-6d3116a67d7c.png",
+    "batch_exam": "UPSC"
+  },
+  {
+    "_id": "65ccdfdaa96bd21dfb42b655",
+    "batch_name": "UPSC CSAT Test Series 2.0",
+    "batch_start_date": "2023-09-02T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "64e61b7f8e00d200185e6bd3",
+    "batch_slug": "upsc-csat-test-series-2-0-634657",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/c3bc9d0a-4da6-4163-8433-87c3fc2402bc.png",
+    "batch_exam": "UPSC"
+  },
+  {
+    "_id": "65ccdfe2a96bd21dfb42b659",
+    "batch_name": "UPSC Mains Test Series (English)",
+    "batch_start_date": "2023-09-02T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "64e61b57fa61cf001866816e",
+    "batch_slug": "upsc-mains-test-series--english--847203",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/66644d6b-ffbe-4f2b-b369-eae5e3ef4e3a.png",
+    "batch_exam": "UPSC"
+  },
+  {
+    "_id": "65ccdfe9a96bd21dfb42b66c",
+    "batch_name": "UPSC Prelims Test Series",
+    "batch_start_date": "2023-09-02T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "64e617bb7ccd9d00186a2d0c",
+    "batch_slug": "upsc-prelims-test-series-446994",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/7f665c47-36c2-47a4-b8f0-20f592c68bf7.png",
+    "batch_exam": "UPSC"
+  },
+  {
+    "_id": "65ccdf0da96bd21dfb42b346",
+    "batch_name": "Sankalp 2.0 (Hinglish) 2025",
+    "batch_start_date": "2023-08-22T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "64ce4c26d754490018d0e83c",
+    "batch_slug": "sankalp-2-0--hinglish--2025-457076",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/3d8d10c1-1382-4921-a525-232986533101.png",
+    "batch_exam": "UPSC"
+  },
+  {
+    "_id": "65cd7baea96bd21dfb437e78",
+    "batch_name": "UPSC CSE WEBINAR",
+    "batch_start_date": "2023-04-06T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "64366e961671950018d93b3d",
+    "batch_slug": "upsc-cse-webinar-427545",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/a04417f1-2166-442e-8ebc-f0630d1f3abd.jpg",
+    "batch_exam": "UPSC"
+  },
+  {
     "_id": "65cd917ca96bd21dfb437e91",
     "batch_id": "65191da6721ccd001857d567",
     "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/d41ef6de-38ff-4dd0-b915-5cbca5d2a4ec.png",
