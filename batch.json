@@ -1,5 +1,25 @@
 [
   {
+    "_id": "65ccfc71a96bd21dfb432372",
+    "batch_name": "Gramin Bank Batch Pre and Mains for IBPS RRB PO/Clerk 2023",
+    "batch_start_date": "2023-06-13T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "647b0ae7a133ff001860bee9",
+    "batch_slug": "gramin-bank-batch-pre-and-mains-for-ibps-rrb-po-clerk-2023-022206",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/5e8cf7dc-b8ec-4e4b-945c-e328ed4a85ff.jpeg",
+    "batch_exam": "Banking"
+  },
+  {
+    "_id": "65ccfaaba96bd21dfb431cd9",
+    "batch_name": "Banker Foundation batch for 2023 (Pre+Mains)",
+    "batch_start_date": "2023-01-31T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "63ca212e71bdf20018cf3772",
+    "batch_slug": "banker-foundation-batch-for-2023--pre-mains--799973",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/bf204ada-7a6a-48e0-9743-9c4de22736bc.png",
+    "batch_exam": "Banking"
+  },
+  {
     "_id": "65cc4358b9b6843415b49ec5",
     "batch_name": "NDA Shaurya 1.0 2024",
     "batch_start_date": "2023-09-24T18:30:00.000Z",
