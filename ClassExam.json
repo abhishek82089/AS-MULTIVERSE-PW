@@ -1,5 +1,9 @@
 [
   {
+    "batch_class": "All Batches",
+    "batch_exam": "all"
+  },
+  {
     "batch_class": "7th",
     "batch_exam": "FOUNDATION"
   },
