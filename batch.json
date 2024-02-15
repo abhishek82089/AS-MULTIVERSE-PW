@@ -1,5 +1,65 @@
 [
   {
+    "_id": "65cc57435e2a5809350e1f2a",
+    "batch_name": "Saakaar 2.0 Batch for IIT JAM 2024 Physics",
+    "batch_start_date": "2023-07-16T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "649acf55ce4202001877af2d",
+    "batch_slug": "saakaar-2-0-batch-for-iit-jam-2024-physics-437348",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/b7166af2-91f8-461a-8093-0c02687c56c8.png",
+    "batch_exam": "IIT JAM & CSIR NET"
+  },
+  {
+    "_id": "65cc579b5e2a5809350e21fe",
+    "batch_name": "Saakaar 2.0 Batch for IIT JAM 2024 Mathematics",
+    "batch_start_date": "2023-07-16T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "649acf5696f30a00184f82d2",
+    "batch_slug": "saakaar-2-0-batch-for-iit-jam-2024-mathematics-327842",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/57b3d06c-3359-45b9-846d-0cdb76228a3a.png",
+    "batch_exam": "IIT JAM & CSIR NET"
+  },
+  {
+    "_id": "65cc583b5e2a5809350e277f",
+    "batch_name": "Saakaar 2.0 Batch for IIT JAM 2024 Chemistry",
+    "batch_start_date": "2023-07-16T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "649acf53f679890018c9908c",
+    "batch_slug": "saakaar-2-0-batch-for-iit-jam-2024-chemistry-454854",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/ff474813-8c49-41a0-bed2-e12daf9dfcb3.png",
+    "batch_exam": "IIT JAM & CSIR NET"
+  },
+  {
+    "_id": "65cc5a1e5e2a5809350e2a9e",
+    "batch_name": "Saakaar 2.0 Batch for IIT JAM 2024 Biotechnology",
+    "batch_start_date": "2023-07-16T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "649acf52f679890018c99084",
+    "batch_slug": "saakaar-2-0-batch-for-iit-jam-2024-biotechnology-075860",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/a5489cae-75cb-4741-92c0-b4de8357c0a8.png",
+    "batch_exam": "IIT JAM & CSIR NET"
+  },
+  {
+    "_id": "65ce3767a96bd21dfb43c883",
+    "batch_name": "SSC CGL 2023-24 - G.S. Special",
+    "batch_start_date": "2023-05-29T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "63b2aefed5240f0018369524",
+    "batch_slug": "ssc-cgl-2023-24---g-s--special-642015",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/9325388a-baf0-4f2e-bb61-a29045173873.jpeg",
+    "batch_exam": "SSC"
+  },
+  {
+    "_id": "65cc5e5d5e2a5809350e3d34",
+    "batch_name": "SSC GD Constable Video Course",
+    "batch_start_date": "2023-04-10T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "6362890c79ed8900187a14f7",
+    "batch_slug": "ssc-gd-constable-video-course-696867",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/0f40b899-9c4a-4240-9eb9-caf8f84364e2.png",
+    "batch_exam": "SSC"
+  },
+  {
     "_id": "65ce18afa96bd21dfb43ae86",
     "batch_name": "CUET Mega Mock Test Batch",
     "batch_start_date": "2023-12-14T18:30:00.000Z",
