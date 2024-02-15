@@ -11,6 +11,16 @@
     "type": "0"
   },
   {
+    "_id": "65cd7b63a96bd21dfb437e2f",
+    "batch_name": "JEE Ultimate Crash Course 2.0 2024",
+    "batch_start_date": "2024-02-11T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "65a3ae75d209550018ba168f",
+    "batch_slug": "jee-ultimate-crash-course-2-0-2024-741189",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/f6f433ee-d5ef-4f36-a956-367eee0022fe.png",
+    "batch_exam": "IIT/JEE"
+  },
+  {
     "_id": "65cd7bc7a96bd21dfb437e88",
     "batch_name": "UPSC 2026/27 SCHOLARSHIP TEST",
     "batch_start_date": "2023-09-20T18:30:00.000Z",
