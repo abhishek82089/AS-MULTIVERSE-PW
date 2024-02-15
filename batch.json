@@ -1,5 +1,85 @@
 [
   {
+    "_id": "65cd6aaca96bd21dfb4345da",
+    "batch_name": "CA Foundation Sampurna PRO June 2024",
+    "batch_start_date": "2023-11-30T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "651709e71c699300187a51a2",
+    "batch_slug": "ca-foundation-sampurna-pro-june-2024-953699",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/67fdfd01-eb92-4893-a0dc-bde963e34c00.png",
+    "batch_exam": "CA"
+  },
+  {
+    "_id": "65cd68d1a96bd21dfb433f7b",
+    "batch_name": "CA Intermediate Udesh Regular Group 1 & 2 May 2024 Combo + Master Test Series G1 + G2",
+    "batch_start_date": "2023-08-15T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "64ba2cce54fdaf0018a84cb8",
+    "batch_slug": "ca-intermediate-udesh-regular-group-1-and-2-may-2024-combo---master-test-series-g1---g2-832396",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/4b21e35c-d69e-474b-86f4-3db94991bcc1.png",
+    "batch_exam": "CA"
+  },
+  {
+    "_id": "65cd68fca96bd21dfb433f9b",
+    "batch_name": "CA Intermediate Udesh Regular Group 2 May 2024",
+    "batch_start_date": "2023-08-15T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "64b92c633a8ffb001869168e",
+    "batch_slug": "ca-intermediate-udesh-regular-group-2-may-2024-347506",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/0124e096-dbc1-4ba7-904f-fe2cc26fbf43.png",
+    "batch_exam": "CA"
+  },
+  {
+    "_id": "65cd6a2ba96bd21dfb434217",
+    "batch_name": "CA Intermediate Udesh Regular Group 1 May 2024",
+    "batch_start_date": "2023-08-15T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "64b91b080f27bd0018673c5e",
+    "batch_slug": "ca-intermediate-udesh-regular-group-1-may-2024-566389",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/6e789b9c-103f-45d0-8063-848ba5e3e75a.png",
+    "batch_exam": "CA"
+  },
+  {
+    "_id": "65cc57f35e2a5809350e242e",
+    "batch_name": "Shodh 2.0 Batch for CSIR NET/GATE Physical Sciences",
+    "batch_start_date": "2023-07-02T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "6489540452167b00187ed599",
+    "batch_slug": "shodh-2-0-batch-for-csir-net-gate-physical-sciences-153044",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/2e97eb69-4d70-4d5f-8f01-abc8a9bbcda6.png",
+    "batch_exam": "CSIR NET"
+  },
+  {
+    "_id": "65cc5a275e2a5809350e2c8a",
+    "batch_name": "Shodh 2.0 Batch for CSIR NET/GATE Mathematical Sciences",
+    "batch_start_date": "2023-07-02T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "64895404e2445700189035d4",
+    "batch_slug": "shodh-2-0-batch-for-csir-net-gate-mathematical-sciences-166215",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/80a5143c-b556-40a8-9298-0efaab4b28c7.png",
+    "batch_exam": "CSIR NET"
+  },
+  {
+    "_id": "65cc5a8a5e2a5809350e2fd5",
+    "batch_name": "Shodh 2.0 Batch for CSIR NET/GATE Life Sciences",
+    "batch_start_date": "2023-07-02T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "64887046d20328001899e66b",
+    "batch_slug": "shodh-2-0-batch-for-csir-net-gate-life-sciences-519297",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/0a2baa5b-6bdf-4258-9f45-2562f962da8f.png",
+    "batch_exam": "CSIR NET"
+  },
+  {
+    "_id": "65cd6e59a96bd21dfb435670",
+    "batch_name": "Shodh 2.0 Batch for CSIR NET/GATE Chemical Sciences",
+    "batch_start_date": "2023-07-02T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "64895404ab1da00018ce2cae",
+    "batch_slug": "shodh-2-0-batch-for-csir-net-gate-chemical-sciences-370797",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/6e366a91-2a9e-4c64-8e14-f86e79297d4f.png",
+    "batch_exam": "CSIR NET"
+  },
+  {
     "_id": "65cd792ca96bd21dfb4374a8",
     "batch_name": "Kautilya 3.0",
     "batch_start_date": "2023-09-10T18:30:00.000Z",
