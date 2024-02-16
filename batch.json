@@ -1,5 +1,25 @@
 [
   {
+    "_id": "65cf0f32a96bd21dfb43d83a",
+    "batch_name": "IOQM 2024",
+    "batch_start_date": "2023-10-19T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "651efd4124214f0018f631c5",
+    "batch_slug": "ioqm-2024-569035",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/8887a571-0cb6-4d76-bace-01a22b19504c.jpeg",
+    "batch_exam": "OLYMPIAD"
+  },
+  {
+    "_id": "65cf0efca96bd21dfb43d7c4",
+    "batch_name": "NSEP Batch 2024",
+    "batch_start_date": "2024-01-01T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "65896d9df5db5f0018fa13a1",
+    "batch_slug": "nsep-batch-2024-430642",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/410a5b6a-fea3-4236-84a9-4d561d29723c.png",
+    "batch_exam": "OLYMPIAD"
+  },
+  {
     "_id": "65cc57435e2a5809350e1f2a",
     "batch_name": "Saakaar 2.0 Batch for IIT JAM 2024 Physics",
     "batch_start_date": "2023-07-16T18:30:00.000Z",
