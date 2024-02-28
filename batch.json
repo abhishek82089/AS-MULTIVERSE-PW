@@ -1,5 +1,15 @@
 [
   {
+    "_id": "65cc3c65b9b6843415b47f1e",
+    "batch_name": "Arjuna JEE 4.0 2024",
+    "batch_start_date": "2023-11-19T18:30:00.000Z",
+    "batch_class": "11th",
+    "batch_id": "6543ac118a177f0018a0d211",
+    "batch_slug": "arjuna-jee-4-0-2024-817021",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/9902f98a-5113-495e-9fbe-696a2f3e0c26.png",
+    "batch_exam": "IIT/JEE"
+  },
+  {
     "_id": "65ce1725a96bd21dfb43ae68",
     "batch_name": "Vidyapeeth 12th JEE (Target 2025)",
     "batch_start_date": "2024-03-31T18:30:00.000Z",
