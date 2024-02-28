@@ -1,5 +1,15 @@
 [
   {
+    "_id": "65cebd73a96bd21dfb43d3cb",
+    "batch_name": "Shodh Batch for Physical Sciences",
+    "batch_start_date": "2023-02-12T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "63d8a952e07e2a0019029711",
+    "batch_slug": "shodh-batch-for-physical-sciences-990589",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/9c8506db-7b7c-46bb-8112-35d84ebce717.jpg",
+    "batch_exam": "CSIR NET"
+  },
+  {
     "_id": "65cc3c65b9b6843415b47f1e",
     "batch_name": "Arjuna JEE 4.0 2024",
     "batch_start_date": "2023-11-19T18:30:00.000Z",
