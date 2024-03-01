@@ -20,7 +20,7 @@
   "dlurl": "https://psitoffers.store/1dm.php?vid=",
   "master": "",
   "weburl": "https://api.devjisu.com/?v=",
-  "web": true,
+  "web": false,
   "mainurl": "https://psitoffers.store/testkey.php?vid=",
   "quality1": "&quality=240",
   "quality2": "&quality=360",
