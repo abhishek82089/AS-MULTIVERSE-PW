@@ -1,7 +1,7 @@
 [
   {
-    "batchh_class": "All Batches",
-    "batchh_exam": "All Exams"
+    "batch_class": "All Batches",
+    "batch_exam": "All Exams"
   },
   {
     "batch_class": "7th",
