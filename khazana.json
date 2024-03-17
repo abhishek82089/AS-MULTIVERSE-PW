@@ -27,7 +27,7 @@
     "_id": "62cd3a81c521a200190acaca",
     "exam": "JEE",
     "khazana_slug": "12th-jee-khazana-240310",
-    "khazana_image": "https://graph.org/file/8852a436a879da4f41dd0.jpg",
+    "khazana_image": "https://graph.org/file/4a8b05b44e7d4311c7517.jpg",
     "name": "Lakshya JEE - 12th JEE Khazana",
     "class": "12"
   },
@@ -35,7 +35,7 @@
     "_id": "62cd4128972ca20018b4c092",
     "exam": "NEET",
     "khazana_slug": "12th-neet-khazana-370407",
-    "khazana_image": "https://graph.org/file/8852a436a879da4f41dd0.jpg",
+    "khazana_image": "https://graph.org/file/bd5a5cf182ae3ecdc8c00.jpg",
     "name": "Lakshya NEET - 12th NEET Khazana",
     "class": "12"
   },
@@ -43,7 +43,7 @@
     "_id": "62c7bcec812cae001195d121",
     "exam": "JEE",
     "khazana_slug": "dropper-jee-khazana-187917",
-    "khazana_image": "https://graph.org/file/8852a436a879da4f41dd0.jpg",
+    "khazana_image": "https://graph.org/file/4311fadce824b7fad97f5.jpg",
     "name": "Prayas JEE - Dropper JEE Khazana",
     "class": "12th+"
   },
@@ -51,7 +51,7 @@
     "_id": "62c7bd151690a10018df0307",
     "exam": "NEET",
     "khazana_slug": "dropper-neet-khazana-421970",
-    "khazana_image": "https://graph.org/file/8852a436a879da4f41dd0.jpg",
+    "khazana_image": "https://graph.org/file/73332cd3da43fe0f9bf03.jpg",
     "name": "Yakeen NEET - Dropper NEET Khazana",
     "class": "12th+"
   }
