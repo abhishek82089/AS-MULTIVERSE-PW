@@ -4,15 +4,15 @@
     "exam": "IIT-JEE",
     "khazana_slug": "11th-jee-khazana-607507",
     "khazana_image": "https://graph.org/file/1f84060e2cc83cf944699.jpg",
-    "name": "Arjuna Jee - 11th JEE Khazana",
+    "name": "Arjuna JEE - 11th JEE Khazana",
     "class": "11"
   },
   {
-    "_id": "65ef84155acc070eb2af975e",
-    "exam": "BOARDS",
-    "khazana_slug": "class-10th-khazana-047538",
-    "khazana_image": "https://graph.org/file/42082165097e0a0a287f8.jpg",
-    "name": "Arjuna Jee - Khazana",
-    "class": "10"
+    "_id": "62cc8e68ae30df00118980dc",
+    "exam": "NEET",
+    "khazana_slug": "11th-neet-khazana-553123",
+    "khazana_image": "https://graph.org/file/243af62c4f9cde3692ea3.jpg",
+    "name": "Arjuna NEET - 11th NEET Khazana",
+    "class": "11"
   }
 ]
