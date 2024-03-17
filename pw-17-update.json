@@ -1,5 +1,5 @@
 {
-  "success": true,
+  "success": false,
   "tg": "https://telegram.me/MadXAbhiOfficial",
   "yt": "https://telegram.me/MadXAbhiOfficial",
   "ig": "https://telegram.me/MadXAbhiOfficial",
@@ -21,14 +21,14 @@
   "donate": "https://telegram.me/DonateNow_Robot",
   "all app": "https://whatsapp.com/channel/0029VaA3q89L7UVUq1KRTn1x",
   "updatemessage": "SOON",
-  "dlurl": "https://psitoffers.store/1dm.php?vid=",
+  "dlurl": "",
   "master": "",
-  "weburl": "https://extractapi.xyz/alpha?v=",
+  "weburl": "",
   "web": false,
-  "mainurl": "https://psitoffers.store/testkey.php?vid=",
-  "quality1": "&quality=240",
-  "quality2": "&quality=360",
-  "quality3": "&quality=480",
-  "quality4": "&quality=720",
+  "mainurl": "",
+  "quality1": "&",
+  "quality2": "&",
+  "quality3": "&",
+  "quality4": "&",
   "mainurl2": ""
 }
