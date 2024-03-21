@@ -18,5 +18,15 @@
     "batch_slug": "12th-board-booster-2024-049467",
     "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/ef18ff31-f468-45aa-8b7e-d1024ea8466c.png",
     "batch_exam": "BOARD_EXAM"
+  },
+  {
+    "_id": "65ccef5aa96bd21dfb42d581",
+    "batch_name": "Yakeen NEET 2.0 2024",
+    "batch_start_date": "2023-05-17T18:30:00.000Z",
+    "batch_class": "12+",
+    "batch_id": "63fc58ed46bb3f00189d3c6d",
+    "batch_slug": "yakeen-neet-2-0-2024-601447",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/294968dc-60f9-43d8-825f-bc5b20acb0af.png",
+    "batch_exam": "NEET"
   }
 ]
