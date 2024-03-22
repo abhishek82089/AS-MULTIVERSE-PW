@@ -150,5 +150,17 @@
   {
     "batch_class": "12th+",
     "batch_exam": "OLYMPIAD"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "BPSC"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "IPMAT"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "LAW"
   }
 ]
