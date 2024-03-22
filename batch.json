@@ -1,5 +1,195 @@
 [
   {
+    "_id": "65f1224a58583517d05a52b4",
+    "batch_name": "Arjuna JEE 2025",
+    "batch_start_date": "2024-04-07T18:30:00.000Z",
+    "batch_class": "11th [ 2024 ]",
+    "batch_id": "65d86238cdb6ea00181bdcfe",
+    "batch_slug": "arjuna-jee-2025-753822",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/09d3883e-6c44-4891-bce0-622753e48869.png",
+    "batch_exam": "IIT/JEE"
+  },
+  {
+    "_id": "65f3ed18f3f3e32751fee868",
+    "batch_name": "Vidyapeeth Doubt  &  Test Series 11th JEE 2024",
+    "batch_start_date": "2024-03-31T18:30:00.000Z",
+    "batch_class": "11th [ 2024 ]",
+    "batch_id": "65abb92e42af010018c8e291",
+    "batch_slug": "vidyapeeth-doubt-and-test-series-11th-jee-2024-846343",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/10c19f14-37bb-44fb-9206-d3b836bdee11.jpg",
+    "batch_exam": "IIT/JEE"
+  },
+  {
+    "_id": "65f3d2fdf3f3e32751fee4b1",
+    "batch_name": "JEE 2025 Bridge Course ( For Class 11th Students)",
+    "batch_start_date": "2024-03-08T18:30:00.000Z",
+    "batch_class": "11th [ 2024 ]",
+    "batch_id": "65e8473427ebbe00185a2f2c",
+    "batch_slug": "jee-2025-bridge-course---for-class-11th-students--154679",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/fffb6e25-75b4-4d41-81be-955f22d7bd26.png",
+    "batch_exam": "IIT/JEE"
+  },
+  {
+    "_id": "65f770eebb5b2a6c05fa078e",
+    "batch_name": "Lakshya JEE 3.0 2025",
+    "batch_start_date": "2024-08-25T18:30:00.000Z",
+    "batch_class": "12th [ 2024 ]",
+    "batch_id": "65df100ff7354b0018c9f7ec",
+    "batch_slug": "lakshya-jee-3-0-2025-820217",
+    "batch_banner": "null",
+    "batch_exam": "IIT/JEE"
+  },
+  {
+    "_id": "65f25c5f5bd8ef3fd1561587",
+    "batch_name": "Lakshya JEE 2.0 2025",
+    "batch_start_date": "2024-06-16T18:30:00.000Z",
+    "batch_class": "12th [ 2024 ]",
+    "batch_id": "65ddb1c61c60f30018f2b893",
+    "batch_slug": "lakshya-jee-2-0-2025-073029",
+    "batch_banner": "null",
+    "batch_exam": "IIT/JEE"
+  },
+  {
+    "_id": "65f1225b58583517d05a52e3",
+    "batch_name": "Arjuna JEE 2025 + Lakshya JEE 2026",
+    "batch_start_date": "2024-04-07T18:30:00.000Z",
+    "batch_class": "12th [ 2024 ]",
+    "batch_id": "65dc54bf66f932001818a7c5",
+    "batch_slug": "arjuna-jee-2025---lakshya-jee-2026-413531",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/f333afd5-248e-4304-8e31-22f8da2eb483.png",
+    "batch_exam": "IIT/JEE"
+  },
+  {
+    "_id": "65f25c325bd8ef3fd156143e",
+    "batch_name": "Lakshya JEE 2025",
+    "batch_start_date": "2024-03-31T18:30:00.000Z",
+    "batch_class": "12th [ 2024 ]",
+    "batch_id": "65d862392b1da90018ad8f3b",
+    "batch_slug": "lakshya-jee-2025-095106",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/af9510dc-45b3-41fb-ab94-dccd2ce3ac60.png",
+    "batch_exam": "IIT/JEE"
+  },
+  {
+    "_id": "65f25e175bd8ef3fd1561f54",
+    "batch_name": "Lakshya JEE Revision E2 2024 (Patna-Iskcon Vidyapeeth)",
+    "batch_start_date": "2024-03-06T18:30:00.000Z",
+    "batch_class": "12th [ 2024 ]",
+    "batch_id": "65e3202be8a0d80018671f67",
+    "batch_slug": "lakshya-jee-revision-e2-2024--patna-iskcon-vidyapeeth--602549",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/f936924a-4107-485c-a76a-5677d8edb361.png",
+    "batch_exam": "IIT/JEE"
+  },
+  {
+    "_id": "65f3258df3f3e32751fec008",
+    "batch_name": "Lakshya JEE Revision ER1 2024 (Patna-Iskcon Vidyapeeth)",
+    "batch_start_date": "2024-03-06T18:30:00.000Z",
+    "batch_class": "12th [ 2024 ]",
+    "batch_id": "65e6fd53da64d70018116b2c",
+    "batch_slug": "lakshya-jee-revision-er1-2024--patna-iskcon-vidyapeeth--400560",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/685c19f3-f47e-49f9-b302-526232da5a1a.png",
+    "batch_exam": "IIT/JEE"
+  },
+  {
+    "_id": "65f7f49403cd90fac23acd84",
+    "batch_name": "Prayas JEE 3.0 2025",
+    "batch_start_date": "2024-07-28T18:30:00.000Z",
+    "batch_class": "12th+ [ 2024 ]",
+    "batch_id": "65df1470f7354b0018ca035e",
+    "batch_slug": "prayas-jee-3-0-2025-930411",
+    "batch_banner": "null",
+    "batch_exam": "IIT/JEE"
+  },
+  {
+    "_id": "65f7f44b03cd90fac23acc90",
+    "batch_name": "Prayas JEE Hindi 2025",
+    "batch_start_date": "2024-05-12T18:30:00.000Z",
+    "batch_class": "12th+ [ 2024 ]",
+    "batch_id": "65d8661b19b17f00187749c6",
+    "batch_slug": "prayas-jee-hindi-2025-242617",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/4c54131b-4512-4fd4-a46f-8564118ab973.png",
+    "batch_exam": "IIT/JEE"
+  },
+  {
+    "_id": "65f7f45103cd90fac23accbe",
+    "batch_name": "Prayas JEE Hindi 2.0 2025",
+    "batch_start_date": "2024-04-07T18:30:00.000Z",
+    "batch_class": "12th+ [ 2024 ]",
+    "batch_id": "65dde2146e2f720018d0633c",
+    "batch_slug": "prayas-jee-hindi-2-0-2025-682913",
+    "batch_banner": "null",
+    "batch_exam": "IIT/JEE"
+  },
+  {
+    "_id": "65ce1725a96bd21dfb43ae68",
+    "batch_name": "Vidyapeeth 12th JEE (Target 2025)",
+    "batch_start_date": "2024-03-31T18:30:00.000Z",
+    "batch_class": "12th+ [ 2024 ]",
+    "batch_id": "6501bc994ba5fc0018fe76ed",
+    "batch_slug": "vidyapeeth-12th-jee--target-2025--117645",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/15616ece-9201-45f2-93de-31daf174aab9.png",
+    "batch_exam": "IIT/JEE"
+  },
+  {
+    "_id": "65fa8cd303cd90fac24163f7",
+    "batch_name": "Varun JEE Advanced   2024",
+    "batch_start_date": "2024-02-13T18:30:00.000Z",
+    "batch_class": "12th+ [ 2024 ]",
+    "batch_id": "65a3b21cc918210018edf198",
+    "batch_slug": "varun-jee-advanced-2024-220380",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/c4f087b2-edc5-4a5c-9464-71e9d6558a76.png",
+    "batch_exam": "IIT/JEE"
+  },
+  {
+    "_id": "65fa8dab03cd90fac2416882",
+    "batch_name": "JEE Ultimate Crash Course 2.0 2024",
+    "batch_start_date": "2024-02-11T18:30:00.000Z",
+    "batch_class": "12th+ [ 2024 ]",
+    "batch_id": "65a3ae75d209550018ba168f",
+    "batch_slug": "jee-ultimate-crash-course-2-0-2024-741189",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/f6f433ee-d5ef-4f36-a956-367eee0022fe.png",
+    "batch_exam": "IIT/JEE"
+  },
+  {
+    "_id": "65f25c545bd8ef3fd156146d",
+    "batch_name": "Lakshya JEE AIR Recorded 2025",
+    "batch_start_date": "2024-01-21T18:30:00.000Z",
+    "batch_class": "12th+ [ 2024 ]",
+    "batch_id": "65a92b0392cf1a00189646ae",
+    "batch_slug": "lakshya-jee-air-recorded-2025-933278",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/d6926178-93f1-4893-97a5-9aa435cbf4d9.png",
+    "batch_exam": "IIT/JEE"
+  },
+  {
+    "_id": "65d076bd9c32d25fcfd7e15a",
+    "batch_name": "Vidyapeeth 26-LJE03MA 2024",
+    "batch_start_date": "2024-01-15T18:30:00.000Z",
+    "batch_class": "12th+ [ 2024 ]",
+    "batch_id": "65a7b0e2c1c15e00188d5cdc",
+    "batch_slug": "vidyapeeth-26-lje03ma-2024-176872",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/1ba7c332-e469-4a24-9263-92e0c061f291.png",
+    "batch_exam": "IIT/JEE"
+  },
+  {
+    "_id": "65cf6f3aa96bd21dfb43d9c6",
+    "batch_name": "Sarthak WBJEE (Bangla) Crash Course 2024",
+    "batch_start_date": "2024-01-04T18:30:00.000Z",
+    "batch_class": "12th+ [ 2024 ]",
+    "batch_id": "6582c90459512a00180d8a81",
+    "batch_slug": "sarthak-wbjee--bangla--crash-course-2024-061637",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/ef1581f7-a939-43f2-818f-5e38c769c12b.png",
+    "batch_exam": "IIT/JEE"
+  },
+  {
+    "_id": "65fc3ca403cd90fac245a10a",
+    "batch_name": "Lakshya NEET Hindi 2025",
+    "batch_start_date": "2024-04-28T18:30:00.000Z",
+    "batch_class": "12th [ 2024 ]",
+    "batch_id": "65d76e0d0aafec00186509d5",
+    "batch_slug": "lakshya-neet-hindi-2025-238997",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/d901c12a-c51f-417e-bebb-3a97454256d0.png",
+    "batch_exam": "NEET"
+  },
+  {
     "_id": "65cebd73a96bd21dfb43d3cb",
     "batch_name": "Shodh Batch for Physical Sciences",
     "batch_start_date": "2023-02-12T18:30:00.000Z",
