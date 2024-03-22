@@ -1,5 +1,95 @@
 [
   {
+    "_id": "65f51a309766d51316cfa30d",
+    "batch_name": "Pravesh 2024 2.0 CUET Science + 12th Boards",
+    "batch_start_date": "2024-01-17T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "6586cb0e9499b4001838fe5f",
+    "batch_slug": "pravesh-2024-2-0-cuet-science---12th-boards-391020",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/e3279ef9-b602-4ed2-8e61-b6b320a3ecbf.png",
+    "batch_exam": "CUET UG"
+  },
+  {
+    "_id": "65f15f6d58583517d05a6690",
+    "batch_name": "Pravesh 2.0 Science General Test Language Batch",
+    "batch_start_date": "2023-04-09T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "642a90a2e805720019603769",
+    "batch_slug": "pravesh-2-0-science-general-test-language-batch-418788",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/583ac558-84b0-480c-b7a8-443325b63e9f.png",
+    "batch_exam": "CUET UG"
+  },
+  {
+    "_id": "65f15d4f58583517d05a60de",
+    "batch_name": "Pravesh CUET (Mathematics)",
+    "batch_start_date": "2023-03-14T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "63f5c3afb0f8ee001864fc8b",
+    "batch_slug": "pravesh-cuet--mathematics--013949",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/1dd4be97-0c24-4ee8-8504-af4bf323a9d9.jpg",
+    "batch_exam": "CUET UG"
+  },
+  {
+    "_id": "65f15da958583517d05a61db",
+    "batch_name": "Pravesh CUET (Chemistry)",
+    "batch_start_date": "2023-03-14T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "63f5c185c41a3900186afef2",
+    "batch_slug": "pravesh-cuet--chemistry--384701",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/bb01eeea-b674-46f4-a41f-77c65ab8d12e.jpg",
+    "batch_exam": "CUET UG"
+  },
+  {
+    "_id": "65f15ddd58583517d05a62d1",
+    "batch_name": "Pravesh CUET (Physics)",
+    "batch_start_date": "2023-03-14T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "63f5bf063430d00139608676",
+    "batch_slug": "pravesh-cuet--physics--179077",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/7c821b66-e4df-4553-9ba1-122bf3848609.jpg",
+    "batch_exam": "CUET UG"
+  },
+  {
+    "_id": "65f15e3858583517d05a639e",
+    "batch_name": "Pravesh CUET 2023 (Biology)",
+    "batch_start_date": "2023-03-14T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "63f5bf061cafbb0018e82d77",
+    "batch_slug": "pravesh-cuet-2023--biology--181170",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/f0e6bbf8-acc6-4bc5-9576-06a71f312465.jpg",
+    "batch_exam": "CUET UG"
+  },
+  {
+    "_id": "65f15e4958583517d05a6496",
+    "batch_name": "Pravesh Batch for CUET (Hindi)",
+    "batch_start_date": "2023-03-14T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "63bd4160852df800180259af",
+    "batch_slug": "pravesh-batch-for-cuet--hindi--162906",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/efce6428-555c-4016-9d5a-e69e16077097.jpeg",
+    "batch_exam": "CUET UG"
+  },
+  {
+    "_id": "65f15e5958583517d05a6545",
+    "batch_name": "Pravesh Batch for CUET (General Test)",
+    "batch_start_date": "2023-03-14T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "63bd3fb30b6f4700180c4d9b",
+    "batch_slug": "pravesh-batch-for-cuet--general-test--882200",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/031d7f50-05e3-4d9f-a851-7600546d199e.jpg",
+    "batch_exam": "CUET UG"
+  },
+  {
+    "_id": "65f15ead58583517d05a65ec",
+    "batch_name": "Pravesh Batch for CUET (English)",
+    "batch_start_date": "2023-03-14T18:30:00.000Z",
+    "batch_class": "12th+",
+    "batch_id": "63bd4032852df8001802597d",
+    "batch_slug": "pravesh-batch-for-cuet--english--785254",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/c1c59552-b7df-481d-b6d8-781dd0667e5c.jpg",
+    "batch_exam": "CUET UG"
+  },
+  {
     "_id": "65f66efababac7a20157d4c0",
     "batch_name": "Pratham 2.0 70th BPSC 2024 Hindi Batch",
     "batch_start_date": "2024-03-14T18:30:00.000Z",
