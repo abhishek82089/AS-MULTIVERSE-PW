@@ -4,6 +4,50 @@
     "batch_exam": "All Exams"
   },
   {
+    "batch_class": "7th [ 2024 ]",
+    "batch_exam": "FOUNDATION"
+  },
+  {
+    "batch_class": "8th [ 2024 ]",
+    "batch_exam": "FOUNDATION"
+  },
+  {
+    "batch_class": "9th [ 2024 ]",
+    "batch_exam": "FOUNDATION"
+  },
+  {
+    "batch_class": "10th [ 2024 ]",
+    "batch_exam": "BOARD EXAM"
+  },
+  {
+    "batch_class": "12th [ 2024 ]",
+    "batch_exam": "BOARD EXAM"
+  },
+  {
+    "batch_class": "11th [ 2024 ]",
+    "batch_exam": "IIT/JEE"
+  },
+  {
+    "batch_class": "12th [ 2024 ]",
+    "batch_exam": "IIT/JEE"
+  },
+  {
+    "batch_class": "12th+ [ 2024 ]",
+    "batch_exam": "IIT/JEE"
+  },
+  {
+    "batch_class": "11th [ 2024 ]",
+    "batch_exam": "NEET"
+  },
+  {
+    "batch_class": "12th [ 2024 ]",
+    "batch_exam": "NEET"
+  },
+  {
+    "batch_class": "12th+ [ 2024 ]",
+    "batch_exam": "NEET"
+  },
+  {
     "batch_class": "7th",
     "batch_exam": "FOUNDATION"
   },
