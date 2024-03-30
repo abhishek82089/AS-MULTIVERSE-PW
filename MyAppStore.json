@@ -1,0 +1,80 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "MyApps": [
+        {
+          "title": "AS MULTIVERSE",
+          "size": "12 MB",
+          "category": "Education",
+          "icon": "https://graph.org/file/42082165097e0a0a287f8.jpg",
+          "url": "https://abhiguru143.github.io/AS-MULTIVERSE-PW/Rojgar%20With%20Ankit%20by%20MadXAbhiOfficial%20v4.21.06.apk",
+          "developer": "MadXAbhi",
+          "downloads": "10k+",
+          "screenshot": {
+            "screenshot1": "https://graph.org/file/42082165097e0a0a287f8.jpg",
+            "screenshot2": "https://graph.org/file/42082165097e0a0a287f8.jpg",
+            "screenshot3": "https://graph.org/file/42082165097e0a0a287f8.jpg"
+          },
+          "description": "okkkkkkkokkkkkkkokkkkkkkokkkkkkkokkkkkkkokkkkkkkokkkkkkkokkkkkkkokkkkkkkokkkkkkkokkkkkkkokkkkkkkokkkkkkkokkkkkkkokkkkkkk",
+          "newupdate": "this that"
+        },
+        {
+          "title": "AS MULTIVERSE",
+          "size": "12 MB",
+          "category": "Education",
+          "icon": "https://graph.org/file/42082165097e0a0a287f8.jpg",
+          "url": "https://graph.org/file/42082165097e0a0a287f8.jpg",
+          "developer": "MadXAbhi",
+          "downloads": "10k+",
+          "screenshot": {
+            "screenshot1": "https://graph.org/file/42082165097e0a0a287f8.jpg",
+            "screenshot2": "https://graph.org/file/42082165097e0a0a287f8.jpg",
+            "screenshot3": "https://graph.org/file/42082165097e0a0a287f8.jpg"
+          },
+          "description": "okkkkkkkokkkkkkkokkkkkkkokkkkkkkokkkkkkkokkkkkkkokkkkkkkokkkkkkkokkkkkkkokkkkkkkokkkkkkkokkkkkkkokkkkkkkokkkkkkkokkkkkkk",
+          "newupdate": "this that"
+        }
+      ],
+      "TelegramChannels": [
+        {
+          "name": "AS MULTIVERSE - APP",
+          "message": "Hello How Are You...!?",
+          "logo": "https://graph.org/file/42082165097e0a0a287f8.jpg",
+          "link": "https://telegram.me/MadXAbhiOfficial"
+        },
+        {
+          "name": "AS MULTIVERSE - APP",
+          "message": "Hello How Are You...!?",
+          "logo": "https://graph.org/file/42082165097e0a0a287f8.jpg",
+          "link": "https://telegram.me/MadXAbhiOfficial"
+        }
+      ],
+      "StudyMaterials": [
+        {
+          "title": "Physics Notes",
+          "class": "10th",
+          "link": "https://graph.org/file/42082165097e0a0a287f8.jpg"
+        },
+        {
+          "title": "Physics Notes",
+          "class": "10th",
+          "link": "https://graph.org/file/42082165097e0a0a287f8.jpg"
+        }
+      ],
+      "SocialMedia": [
+        {
+          "name": "instagram",
+          "logo": "https://graph.org/file/42082165097e0a0a287f8.jpg ",
+          "link": "https://graph.org/file/42082165097e0a0a287f8.jpg"
+        },
+        {
+          "name": "instagram",
+          "logo": "https://graph.org/file/42082165097e0a0a287f8.jpg ",
+          "link": "https://graph.org/file/42082165097e0a0a287f8.jpg"
+        }
+      ]
+    }
+  ],
+  "message": "Successfully"
+}
