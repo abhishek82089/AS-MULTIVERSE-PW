@@ -1,9 +1,10 @@
 {
-  "success": true,
+  "success": false,
   "tg": "https://telegram.me/MadXAbhiOfficial",
   "yt": "https://telegram.me/MadXAbhiOfficial",
   "ig": "https://telegram.me/MadXAbhiOfficial",
   "update": "https://telegram.me/asmultiverseapp",
+  "version": "1.2",
   "announcement": "",
   "api": "MyAppStore.json"
 }
