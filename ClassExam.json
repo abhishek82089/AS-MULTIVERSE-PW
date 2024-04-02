@@ -4,50 +4,6 @@
     "batch_exam": "All Exams"
   },
   {
-    "batch_class": "7th [ 2024 ]",
-    "batch_exam": "FOUNDATION"
-  },
-  {
-    "batch_class": "8th [ 2024 ]",
-    "batch_exam": "FOUNDATION"
-  },
-  {
-    "batch_class": "9th [ 2024 ]",
-    "batch_exam": "FOUNDATION"
-  },
-  {
-    "batch_class": "10th [ 2024 ]",
-    "batch_exam": "BOARD EXAM"
-  },
-  {
-    "batch_class": "12th [ 2024 ]",
-    "batch_exam": "BOARD EXAM"
-  },
-  {
-    "batch_class": "11th [ 2024 ]",
-    "batch_exam": "IIT/JEE"
-  },
-  {
-    "batch_class": "12th [ 2024 ]",
-    "batch_exam": "IIT/JEE"
-  },
-  {
-    "batch_class": "12th+ [ 2024 ]",
-    "batch_exam": "IIT/JEE"
-  },
-  {
-    "batch_class": "11th [ 2024 ]",
-    "batch_exam": "NEET"
-  },
-  {
-    "batch_class": "12th [ 2024 ]",
-    "batch_exam": "NEET"
-  },
-  {
-    "batch_class": "12th+ [ 2024 ]",
-    "batch_exam": "NEET"
-  },
-  {
     "batch_class": "7th",
     "batch_exam": "FOUNDATION"
   },
@@ -69,15 +25,15 @@
   },
   {
     "batch_class": "11th",
-    "batch_exam": "IIT/JEE"
+    "batch_exam": "IIT-JEE"
   },
   {
     "batch_class": "12th",
-    "batch_exam": "IIT/JEE"
+    "batch_exam": "IIT-JEE"
   },
   {
     "batch_class": "12th+",
-    "batch_exam": "IIT/JEE"
+    "batch_exam": "IIT-JEE"
   },
   {
     "batch_class": "11th",
@@ -105,7 +61,7 @@
   },
   {
     "batch_class": "12th+",
-    "batch_exam": "IIT JAM & CSIR NET"
+    "batch_exam": "IIT JAM"
   },
   {
     "batch_class": "12th+",
@@ -162,5 +118,13 @@
   {
     "batch_class": "12th+",
     "batch_exam": "LAW"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "MBA GMAT"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "TET"
   }
 ]
