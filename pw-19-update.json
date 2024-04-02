@@ -18,7 +18,7 @@
   "donate": "https://telegram.me/DonateNow_Robot",
   "all app": "https://whatsapp.com/channel/0029VaMatol8fews0k9JA31c",
   "updatemessage": "SOON",
-  "dlurl11": false,
+  "dlurl11": true,
   "dlurl1": "https://psitoffers.store/1dm.php?vid=",
   "dlurl2": "https://sr-get-video-self.studyratna69.workers.dev/?Vurl=",
   "master": "",
@@ -30,6 +30,6 @@
   "quality3": "&quality=480",
   "quality4": "&quality=720",
   "mainurl2": "",
-  "sr": true,
+  "sr": false,
   "mainurlsr": "https://sr-get-video-self.studyratna69.workers.dev/?Vurl="
 }
