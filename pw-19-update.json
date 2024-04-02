@@ -30,6 +30,6 @@
   "quality3": "&quality=480",
   "quality4": "&quality=720",
   "mainurl2": "",
-  "sr": false,
+  "sr": true,
   "mainurlsr": "https://sr-get-video-self.studyratna69.workers.dev/?Vurl="
 }
