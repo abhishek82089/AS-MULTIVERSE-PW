@@ -58,5 +58,25 @@
     "batch_slug": "lakshya-jee-2025-095106",
     "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/af9510dc-45b3-41fb-ab94-dccd2ce3ac60.png",
     "batch_exam": "JEE"
+  },
+  {
+    "_id": "65f25de75bd8ef3fd156158e",
+    "batch_name": "Arjuna JEE 2024",
+    "batch_start_date": "2023-04-09T18:30:00.000Z",
+    "batch_class": "11th",
+    "batch_id": "63faf32217735c00182ada5b",
+    "batch_slug": "arjuna-jee-2024-626729",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/bbc72039-b850-4722-b5e9-c0ab36d75979.png",
+    "batch_exam": "IIT-JEE"
+  },
+  {
+    "_id": "65cc3a03b9b6843415b468ba",
+    "batch_name": "Arjuna JEE 2.0 2024",
+    "batch_start_date": "2023-05-28T18:30:00.000Z",
+    "batch_class": "11th",
+    "batch_id": "63fc5bce692ade0018aa43da",
+    "batch_slug": "arjuna-jee-2-0-2024-429328",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/a004bce0-8173-450a-8847-2f4c6538c39f.png",
+    "batch_exam": "IIT-JEE"
   }
 ]
