@@ -24,7 +24,7 @@
   "webtype": 1,
   "weburl": "https://studyrays.site/drmplayer.php?v=",
   "web": true,
-  "mainurltype": 3,
+  "mainurltype": 1,
   "mainurl": "https://penpencilvod.pc.cdn.bitgravity.com/",
   "quality1": "&quality=240",
   "quality2": "&quality=360",
@@ -32,5 +32,5 @@
   "quality4": "&quality=720",
   "mainurl2": "",
   "sr": true,
-  "mainurlsr": "https://sr-get-video-self.studyratna69.workers.dev/?Vurl="
+  "mainurlsr": "https://video-api-sxkqn.ondigitalocean.app/?Vurl="
 }
