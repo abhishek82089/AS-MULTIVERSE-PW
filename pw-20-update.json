@@ -1,54 +1,36 @@
 {
   "success": true,
-  "social-media": {
-    "tg": "https://telegram.me/MadXAbhiOfficial",
-    "yt": "https://youtube.com/@AS-Multiverse?feature=shared",
-    "ig": "https://www.instagram.com/as_multiverse.official"
-  },
+  "tg": "https://telegram.me/MadXAbhiOfficial",
+  "yt": "https://youtube.com/@AS-Multiverse?feature=shared",
+  "ig": "https://www.instagram.com/as_multiverse.official",
   "update": "https://telegram.me/asmultiverseapp",
-  "voices": {
-    "voice": false,
-    "speech": "hello kaise ho"
-  },
-  "advertisement": {
-    "ads": true,
-    "image1": "https://graph.org/file/8852a436a879da4f41dd0.jpg",
-    "adsurl": "https://telegram.me/MadXAbhiOfficial",
-    "adsid": "",
-    "announcement": "",
-    "adsurl2": "https://whatsapp.com/channel/0029VaA3q89L7UVUq1KRTn1x",
-    "ads2": "https://whatsapp.com/channel/0029VaA3q89L7UVUq1KRTn1x",
-    "ads2button": "Join Now",
-    "madx": "@MadXAbhiOfficial"
-  },
-  "donate": "https://telegram.me/DonateNow_Robot",
-  "myapp": "https://whatsapp.com/channel/0029VaMatol8fews0k9JA31c",
   "updatemessage": "SOON",
+  "voice": false,
+  "speech": "hello kaise ho",
+  "ads": true,
+  "image1": "https://graph.org/file/8852a436a879da4f41dd0.jpg",
+  "adsurl": "https://telegram.me/MadXAbhiOfficial",
+  "adsid": "",
+  "announcement": "",
+  "adsurl2": "https://whatsapp.com/channel/0029VaA3q89L7UVUq1KRTn1x",
+  "ads2": "https://whatsapp.com/channel/0029VaA3q89L7UVUq1KRTn1x",
+  "ads2button": "Join Now",
+  "madx": "@MadXAbhiOfficial",
+  "donate": "https://telegram.me/DonateNow_Robot",
+  "all app": "https://whatsapp.com/channel/0029VaMatol8fews0k9JA31c",
+  "idmtype": 1,
+  "dlurl": "https://psitoffers.store/1dm.php?vid=",
+  "dlurlquality": "/mastet.m3u8",
+  "webtype": 1,
+  "weburl": "https://api-sarkari.koyeb.app/pw?link=",
+  "web": false,
+  "mainurltype": 1,
+  "mainurl": "https://psitoffers.store/testkey.php?vid=",
+  "quality1": "&quality=240",
+  "quality2": "&quality=360",
+  "quality3": "&quality=480",
+  "quality4": "&quality=720",
   "mainurl2": "",
-  "video-play": {
-    "stream": {
-      "type": 1,
-      "api1": "https://sr-get-video-self.studyratna69.workers.dev/?Vurl=",
-      "api2": "",
-      "quality": [
-        {
-          "quality1": "&quality=240",
-          "quality2": "&quality=360",
-          "quality3": "&quality=480",
-          "quality4": "&quality=720"
-        }
-      ]
-    },
-    "download": {
-      "type": 1,
-      "dlurl1": "https://psitoffers.store/1dm.php?vid=",
-      "dlurl2": "",
-      "dlurl3": ""
-    },
-    "website": {
-      "type": 1,
-      "webapi1": "https://api-sarkari.koyeb.app/pw?link=",
-      "webapi2": ""
-    }
-  }
+  "sr": true,
+  "mainurlsr": "https://sr-get-video-self.studyratna69.workers.dev/?Vurl="
 }
