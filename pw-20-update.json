@@ -23,7 +23,7 @@
   "dlurlquality": "/mastet.m3u8",
   "webtype": 1,
   "weburl": "https://studyrays.site/drmplayer.php?v=",
-  "web": false,
+  "web": true,
   "mainurltype": 3,
   "mainurl": "https://penpencilvod.pc.cdn.bitgravity.com/",
   "quality1": "&quality=240",
