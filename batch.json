@@ -1,5 +1,15 @@
 [
   {
+    "_id": "664eccae4a2c0616d784af7a",
+    "batch_name": "Yakeen NEET 2.0 2025",
+    "batch_start_date": "2024-05-19T18:30:00.000Z",
+    "batch_class": "12+",
+    "batch_id": "65ddb1c46914ab001880f19a",
+    "batch_slug": "yakeen-neet-2-0-2025-801657",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/172b2e89-1fa7-40f4-8af1-ec26eb5d0b6c.png",
+    "batch_exam": "NEET"
+  },
+  {
     "_id": "65f51a309766d51316cfa30d",
     "batch_name": "Pravesh 2024 2.0 CUET Science + 12th Boards",
     "batch_start_date": "2024-01-17T18:30:00.000Z",
