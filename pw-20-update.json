@@ -24,7 +24,7 @@
   "webtype": 1,
   "weburl": "https://studyrays.site/drmplayer.php?v=",
   "web": true,
-  "mainurltype": 1,
+  "mainurltype": 3,
   "mainurl": "https://penpencilvod.pc.cdn.bitgravity.com/",
   "quality1": "&quality=240",
   "quality2": "&quality=360",
